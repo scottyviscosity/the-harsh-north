@@ -43,3 +43,4 @@ Norsca from Warhammer's Old World.
     - Discussions relating to a particular entry may be placed in a *[thread](https://support.discord.com/hc/en-us/articles/4403205878423-Threads-FAQ)* to avoid adding any noise to the in character channel.
 1. The Lore channel is meant to be used as a vehicle for the GM to disseminate information. 
     - To keep this information clean, please refrain from posting there unless you are using a thread.
+
