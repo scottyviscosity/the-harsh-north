@@ -8,7 +8,6 @@ This will be an `asynchronous` campaign.
 
 
 ## Roleplaying System
-----
 
 We'll be running this campaign using the **3rd edition Conan D20 system**. I chose this system primarily because it's very close to systems we all know (D&D 3.5 and Pathfinder), but better suites the theme the story will touch on. I could have used the Warhammer Fantasy rules, but these are pretty foreign to us and I don't want to add that burden.
 
@@ -32,12 +31,10 @@ The following character classes are permitted with minor revisions for flavor:
 
 
 ## Campaign Setting
-----
 Norsca from Warhammer's Old World.
 
 
 ## Discord Server
-----
 
 ### Using Chat Channels
  
