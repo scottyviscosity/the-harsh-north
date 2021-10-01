@@ -21,6 +21,7 @@ The 3rd edition Conan D20 system is extremely similar to D&D 3.5 with a few nota
 For simplicity, only the core rule book is allowed.
 - [Conan D20 3.5](https://drive.google.com/file/d/0B36P1ltRqaAMMXNhMVQtM2NuSEU/view?usp=sharing&resourcekey=0-ftS9tc5byv7bF_sSPQL2ww)
 
+#### Classes
 The following character classes are permitted with minor revisions for flavor:
 - Barbarian
 - Ranger (`Borderer` in the rulebook)
@@ -31,6 +32,16 @@ The following character classes are permitted with minor revisions for flavor:
 - Soldier
 - Rogue (`Thief` in the rulebook)
 
+#### Races
+Since we'll be playing in Norsca, the only playable race will be human. We'll keep it simple and just use the standard Human race from pathfinder. 
+
+**Standard Racial Traits**
+- **Ability Score Modifiers:** Human characters gain a +2 racial bonus to one ability score of their choice at creation to represent their varied nature.
+- **Bonus Feat:** Humans select one extra feat at 1st level.
+- **Skilled:** Humans gain an additional skill rank at first level and one additional rank whenever they gain a level.
+- **Size:** Humans are Medium creatures and thus receive no bonuses or penalties due to their size.
+- **Base Speed:** Humans have a base speed of 30 feet.
+- **Languages:** Humans begin play speaking Common. Humans with high Intelligence scores can choose any languages they want (except secret languages, such as Druidic). See the Linguistics skill page for more information about these languages.
 
 ## Campaign Setting
 Norsca from Warhammer's Old World.
