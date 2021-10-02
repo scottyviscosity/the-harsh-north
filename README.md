@@ -27,8 +27,10 @@ For simplicity, only the core rule book is allowed.
 ## Campaign Setting
 Norsca from Warhammer's Old World.
 
+### Old World
 ![Old World](resources/old-world.jpg)
 
+### Norsca
 ![Norsca](resources/map-norsca-factions.jpg)
 
 
