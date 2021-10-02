@@ -2,9 +2,11 @@
 The Harsh North D20 campaign will follow a group comprised of mostly Norscan natives as they fight to survive the harsh Northern climate, struggle against its native monsters, raid their "weak" neighboring nations, and get tied up in power struggles between warring clans. This story will take place prior to the [Great War Against Chaos](https://warhammerfantasy.fandom.com/wiki/Great_War_Against_Chaos), which means the Norscans will have been mostly untouched by the influences of Chaos. Typical Norscan culture during this time period will resemble a highly aggressive Norse culture focusing on raiding, acquiring loot and slaves, and individual glory by proving one's worth in combat.
 
 This will be an `asynchronous` campaign.
+- This repository will serve as a place for rules, lore, and resources to be distributed.
+- **The wiki section of this repository** may be used as a collaboration tool for tracking living information as the campaign progresses.
 - Roleplaying will take place continuously via discord.
-- Combat may be asynchronous depending on how well tooling works out
-- I plan on scheduling some in-person or online sessions for more important combat encounters
+- Combat may be asynchronous depending on how well tooling works out.
+- I plan on scheduling some in-person or online sessions for more important combat encounters.
 
 ![Old World](assets/viking-rock.jpg)
 
@@ -27,9 +29,12 @@ Norsca from Warhammer's Old World.
 
 ![Old World](resources/old-world.jpg)
 
-- Feel free to use [this board for character inspiration](https://pin.it/2efSdAR)
+![Norsca](resources/map-norsca-factions.jpg)
+
 
 ## Character Creation
+
+- Feel free to use [this board for character inspiration](https://pin.it/2efSdAR)
 
 ### Classes
 The following character classes are permitted with minor revisions for flavor:
@@ -74,6 +79,7 @@ See `Page 104` of the Conan core rule book for initial details. **A campaign spe
 
 
 ## Discord Server
+The Harsh North Discord server will be where gameplay takes place.
 
 ### Using Chat Channels
  
