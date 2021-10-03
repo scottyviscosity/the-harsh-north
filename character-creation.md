@@ -36,7 +36,8 @@ In general, I expect every player to be a Norscan. Under extremely special circu
 Players are permitted two flaws to help give their character depth. As usual for each flaw taken you may select an additional bonus feat. Flaws and bonus feats may only be selected at character creation.
 
 - [Standard list of D20 Flaws](https://www.d20srd.org/srd/variant/buildingCharacters/characterFlaws.htm)
-- I don't like how limited the list is, so feel free to create and submit your own flaws for approval.
+- [List of Pathfinder Drawbacks (flaws)](https://www.d20pfsrd.com/traits/drawbacks/)
+- I don't like how limited the lists are, so feel free to create and submit your own flaws for approval.
 
 ## Fate Points
 Each player will begin the game with **3 fate points**. I do not plan on handing these out for any rewards during the game, so use them wisely.
