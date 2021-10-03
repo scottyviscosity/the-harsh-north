@@ -48,4 +48,21 @@ See `Page 97` of the Conan core rule book.
 
 ## Reputation
 
-See `Page 104` of the Conan core rule book for initial details. **A campaign specific chart will be posted here at some point.**
+See `Page 104` of the Conan core rule book for initial details.
+
+| Example                                                                              | Reputation Score |
+| ------------------------------------------------------------------------------------ | ---------------- |
+| **An obedient Thrall**                                                               | 1                |
+| A newly recruited guardsman                                                          | 2                |
+| A bookish but well-though-of scholar                                                 | 3                |
+| A priest who has worked among the people of the area                                 | 4-5              |
+| A person known to be a thief or thug                                                 | 6-7              |
+| **An average Karl; an old soldier in local lord’s retinue**                          | 8-9              |
+| **A veteran Karl**                                                                   | 10-15            |
+| **A named man; a warrior so renouned as to have a name that kings make note of**     | 16-35            |
+| **An average Jarl; Lords or Nobility**                                               | 26-35            |
+| **An average Seer or scholar; Spiritual leaders, shamen, magi, magisters**           | 30-40            |
+| A gifted assassin                                                                    | 36-55            |
+| **An average King; a leader of a kingdom or tribe**                                  | 56-75            |
+| **The High King; a king of kings**                                                   | 76-90            |
+| An evil wizard who has returned from the dead to topple kingdoms and slay the living | 90+              |

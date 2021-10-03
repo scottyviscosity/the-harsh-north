@@ -25,18 +25,14 @@ For simplicity, only the core rule book is allowed.
 
 
 ## Campaign Setting
-Norsca from Warhammer's Old World.
-
-### Old World
-![Old World](resources/old-world.jpg)
+See the [campaign setting page](\campaign-setting.md) for details about Norsca from Warhammer's Old World.
 
 ### Norsca
-![Norsca](resources/map-norsca-factions.jpg)
+![Norsca](resources/maps/map-norsca-factions.jpg)
 
 
 ## Character Creation
-See the dedicated [character creation page](\character-creation.md).
-
+See the [character creation page](\character-creation.md) for more details.
 
 ## Discord Server
 The Harsh North Discord server will be where gameplay takes place.
