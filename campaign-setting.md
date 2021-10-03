@@ -30,7 +30,7 @@
 See the [reputation section on the character creation page](character-creation.md#reputation) for more clarity on the disparity in reputation between the social classes.
 
 ### Named Men
-At the top of the non-ruling social scale are the Named Men, those warriors who have earned great respect in battle. Most earn badass names, like Shama Heartless, the Bloody-Nine, or Tul Duru Thunderhead. Sometimes however, they gets pegged with an unfortunate nicknames, such as Forley the Weakest or Caul Shivers, who fell in a freezing river during a raid. These men can be of either the Carl or Jarl castes, but once named enter a fuzzy class of their own.
+At the top of the non-ruling social scale are the Named Men, those warriors who have earned great respect in battle. Most earn badass names, like Shama Heartless, the Bloody-Nine, or Tul Duru Thunderhead. Sometimes however, they gets pegged with an unfortunate nicknames, such as Forley the Weakest or Caul Shivers, who fell in a freezing river during a raid.
 
 ### Women
 Though Norse society is patriarchal, women have a stronger place in these lands than many might suspect. A woman may own property and can become a Jarl if her husband dies and has no male offspring. It is up to the woman to decide whom she weds and if she divorces. Whilst women are expected to stay behind during raids and wars, it falls to them to protect the home, so most are competent, if not outright-skilled warriors.
