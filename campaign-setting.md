@@ -33,7 +33,7 @@ See the [reputation section on the character creation page](character-creation.m
 At the top of the non-ruling social scale are the Named Men, those warriors who have earned great respect in battle. Most earn badass names, like Shama Heartless, the Bloody-Nine, or Tul Duru Thunderhead. Sometimes however, they gets pegged with an unfortunate nicknames, such as Forley the Weakest or Caul Shivers, who fell in a freezing river during a raid.
 
 ### Women
-Though Norse society is patriarchal, women have a stronger place in these lands than many might suspect. A woman may own property and can become a Jarl if her husband dies and has no male offspring. It is up to the woman to decide whom she weds and if she divorces. Whilst women are expected to stay behind during raids and wars, it falls to them to protect the home, so most are competent, if not outright-skilled warriors.
+Though Norse society is patriarchal, women have a stronger place in these lands than many might suspect. A woman may own property and can become a Jarl if her husband dies and has no male offspring. It is up to the woman to decide whom she weds and if she divorces. While women are generally expected to stay behind during raids and wars, it falls to them to protect the home. Most are competent, if not skilled warriors in their own right. It is not unheard of to have a shield maiden join the shield wall alongside her clansmen. If a woman is skilled and favored enough, she can be given the right to join a raid.
 
 
 ## Military

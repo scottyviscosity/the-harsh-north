@@ -1,11 +1,11 @@
 # Character Creation
 
 ## Inspiration
-- Feel free to use [this board for character inspiration](https://pin.it/2efSdAR)
+- Feel free to use [this pinterest board for character inspiration](https://pin.it/2efSdAR)
 - Vikings TV Series
 - Last Kingdom TV Series
-- First Law trilogy
-- Warhammer universe
+- First Law trilogy - [The North](https://firstlaw.fandom.com/wiki/The_North)
+- Warhammer universe - [Norsca](https://warhammerfantasy.fandom.com/wiki/Norsca)
 
 ## Classes
 The following character classes are permitted with minor revisions for flavor:
