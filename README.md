@@ -35,58 +35,17 @@ Norsca from Warhammer's Old World.
 
 
 ## Character Creation
-
-- Feel free to use [this board for character inspiration](https://pin.it/2efSdAR)
-
-### Classes
-The following character classes are permitted with minor revisions for flavor:
-- Barbarian
-  - The _Crimson Mist_ ability may be triggered at any time 1/day instead of required a successfully save against terror.
-- Ranger (`Borderer` in the rulebook)
-- ~~Noble~~ (`Not permitted`)
-- Outrider (`Nomad` in the rulebook)
-- Raider (`Pirate` in the rulebook)
-- Scholar (_caster_)
-- Soldier
-- Rogue (`Thief` in the rulebook)
-
-### Races
-Since we'll be playing in Norsca, the only playable race will be human. We'll keep it simple and just use the standard Human race from pathfinder. 
-
-**Standard Racial Traits**
-- **Ability Score Modifiers:** Human characters gain a +2 racial bonus to one ability score of their choice at creation to represent their varied nature.
-- **Bonus Feat:** Humans select one extra feat at 1st level.
-- **Skilled:** Humans gain an additional skill rank at first level and one additional rank whenever they gain a level.
-- **Size:** Humans are Medium creatures and thus receive no bonuses or penalties due to their size.
-- **Base Speed:** Humans have a base speed of 30 feet.
-- **Languages:** Humans begin play speaking Common. Humans with high Intelligence scores can choose any languages they want (except secret languages, such as Druidic). See the Linguistics skill page for more information about these languages.
-
-### Feats/Flaws
-Players are permitted two flaws to help give their character depth. As usual for each flaw taken you may select an additional bonus feat. Flaws and bonus feats may only be selected at character creation.
-
-- [Standard list of D20 Flaws](https://www.d20srd.org/srd/variant/buildingCharacters/characterFlaws.htm)
-- I don't like how limited the list is, so feel free to create and submit your own flaws for approval.
-
-### Fate Points
-Each player will begin the game with 3 fate points. I do not plan on handing these out for any rewards during the game, so use them wisely.
-
-See `Page 95` of the Conan core rule book for more details.
-
-### Starting money
-See `Page 97` of the Conan core rule book.
-
-### Reputation
-
-See `Page 104` of the Conan core rule book for initial details. **A campaign specific chart will be posted here at some point.**
+See the dedicated [character creation page](\character-creation.md).
 
 
 ## Discord Server
 The Harsh North Discord server will be where gameplay takes place.
 
 ### Using Chat Channels
- 
-1. All chat channels are to be **in character only**, except in the following circumstances:
-    - The channel is prefixed with `OOC-*`, designating it as an "Out of character" channel.
-    - Discussions relating to a particular entry may be placed in a *[thread](https://support.discord.com/hc/en-us/articles/4403205878423-Threads-FAQ)* to avoid adding any noise to the in-character channel.
-1. The Lore channel is meant to be used as a vehicle for the GM to disseminate information. 
-    - To keep this information clean, please refrain from posting there unless you are using a thread.
+
+Chat channels have been categorized under **In Character** and **Out of Character**. Please pay attention to the channel's context when posting questions or in game content.
+
+All **In Character** channels should contain only in character dialog or narration of actions. The exception being the use of *[threads](https://support.discord.com/hc/en-us/articles/4403205878423-Threads-FAQ)* for discussions about a particular in character post. **Use of threads in this manner is highly encouraged.**
+
+### Rolling Dice in Discord
+I added the [avrae discord bot](https://avrae.io/commands#dice) for rolling dice in discord (it does way more than rolling dice). We don't have to use it, but if you'd like to it's not too difficult. Just type `!roll 2d6+5` for a test.
