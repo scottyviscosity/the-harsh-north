@@ -32,7 +32,7 @@ See the [campaign setting page](campaign-setting.md) for details about Norsca fr
 
 
 ## Character Creation
-See the [character creation page](\character-creation.md) for more details.
+See the [character creation page](character-creation.md) for more details.
 
 ## Discord Server
 The Harsh North Discord server will be where gameplay takes place.
