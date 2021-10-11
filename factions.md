@@ -59,7 +59,7 @@ Bjornlings are fierce rivals with their northern neighbors; the Graelings. It is
 ### Skaeling
 <img src="https://static.wikia.nocookie.net/totalwarhammer_gamepedia/images/b/bd/Wh_main_nor_skaeling_256.png/revision/latest/scale-to-width-down/256?cb=20160601173309" width="100"/>
 
-As one of the southern tribes, Skaelings are more cosmopolitan than their Northern counterparts. They are explorers and trade very much like their neighbors' Bjornlings. Skaelings are the most powerful Norscan tribe in terms of wealth, commerce, size and by fleet. Due to their relative strength and prosperity, the High King of Norsca has often risen among them throughout Norscan history; usually sitting on the throne of mighty Olricstaad.
+As one of the southern tribes, Skaelings are more cosmopolitan than their Northern counterparts. They are explorers and trade very much like their neighbors, the Bjornlings. Skaelings are the most powerful Norscan tribe in terms of wealth, commerce, size and by fleet. Due to their relative strength and prosperity, the High King of Norsca has often risen among them throughout Norscan history; usually sitting on the throne of mighty Olricstaad.
 
 Skaelings are raiders at their heart and take their wealth from those they deem as weak. They have built their kingdom on a dark reputation, fear, and steel. Uneasy trade relations exist with all surrounding factions on the Sea of Claws, with the negotiations always on the brink of drawn blades. Skaelings are not usually influenced by the Dark Gods, instead favoring either the Old Gods, or none at all. In fact, many Skaeling tribesmen seem to worship strength itself and their ability to dominate others. Seafaring is in Skaeling blood; raiding being a natural extension of their lives. Their traditional targets have been Bretonnia and the Empire.
 
@@ -156,7 +156,7 @@ Vargs were originally nomad tribes that wandered in the most northern parts of N
 
 Vargs fought hard for these lands for many generations. In time Vargs established a few strongholds, fortified settlements called "borgs". Even now many clans and smaller tribes live nomadic life in the vast northern tundra.
 
-Vargs have old grudges against the Kurgan tribes other side of the Kraken Sea (most northern part of Sea of Chaos). Mostly during the winter time, when sea is frozen, both sides mount great raids. Many such battles have taken place on the Icy fields of Drergen Mort, which is situated on the top of the Norsca.
+Vargs have old grudges against the Kurgan tribes on the other side of the Kraken Sea (most northern part of Sea of Chaos). During winter when the sea is frozen and can be traversed en masse, both sides mount great raids in an effort to get the upper hand in the annual struggle. Many such battles have taken place on the Icy fields of Drergen Mort, which is situated on the top of the Norsca.
 
 <!-- 
 <details>
