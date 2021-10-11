@@ -158,15 +158,6 @@ Vargs fought hard for these lands for many generations. In time Vargs establishe
 
 Vargs have old grudges against the Kurgan tribes on the other side of the Kraken Sea (most northern part of Sea of Chaos). During winter when the sea is frozen and can be traversed en masse, both sides mount great raids in an effort to get the upper hand in the annual struggle. Many such battles have taken place on the Icy fields of Drergen Mort, which is situated on the top of the Norsca.
 
-<!-- 
-<details>
-  <summary>Spoilers</summary>
-  The Vargs are a fearsome Norscan Tribe that inhabits the lands on the north-central coastlines of Norsca. Shrouded by myth and legend, they are reputed to be some of the most bloodthirsty and devoted to Chaos amongst all the Northern tribes. The Vargs are followers of the Dark God Khorne and are led by their cheiftain, the Khornate Chaos Lord Hrothgar Daemonaxe.
-
-  As the tale is told by Varg skalds, it was Hrothgarr who first led the Vargs west across the World's Edge Mountains from their ancestral lands in the Nothern Wastes to settle Norsca. As to why the Vargs left their old homeland to settle Norsca, the tales share no detail. Nonetheless, led by their mighty king, who wielded a Daemonic Axe bound with the soul of a raging Bloodthirster, the Varg were easily able to overcome the Kurgan and other Norse tribes to carve out their dominion in the northern edges of the peninsula. Under Hrothgar's leadership, the Varg seem invincible, consuming their foes in a tide of bloodlust in honour of Khorne.
-</details> 
--->
-
 - **Capital:** Novgoborg
 - **Main Settlements:** Aldeigborg, Arothborg, Galdariborg
 - **Famous Clans & Minor Tribes:** 
