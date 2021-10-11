@@ -18,6 +18,11 @@
 1. **Clan** - Groups of communities and peoples lead by a single strong war leader.
 
 
+### Political Climate
+
+See the [factions page](factions.md) for details on relevant factions surrounding Norsca.
+
+
 ## Social Hierarchy
 1. **High King** - A king with power over many kingdoms, typically via vassalage.
 1. **King** - The leader of a particular kingdom or tribe.
@@ -39,5 +44,5 @@ Though Norse society is patriarchal, women have a stronger place in these lands 
 ## Military
 Norscan armies are grouped about the chieftains of the clans, strong war leaders in their own right. Most of the soldiers are Thralls; peasants young and old pressed into service and lightly armed. In the past these were badly trained, but recent wars have been raging for so long that many have become hard fighters. Each chieftain keeps household warriors called Carls, well-armed, armoured, skilled, and disciplined. Lastly there are the Named Men, who might lead groups of Carls on the field, or act as scouts or raiders deep in the enemy’s terrain.
 
-### Duels in the Cirlce
+### Duels in the Circle
 Duel in the Circle, a one-on-one fight to the death between champions, used to resolve disputes without war. The form of a Duel is highly ritualised. The men fight in a circle six good strides across, with the grass shaved to the roots. Carls from both parties form a shield-wall around the edge, allowing only one man to leave alive. Before the bout, a judge introduces the champions, confirms the stakes, and chooses weapons by the spin of a shield. Thus each man can bring any weapon, but might have to fight with his opponents. Any form of cheating in a Duel is considered a terrible crime. The victor can choose to spare the life of his opponent, which means the man owes a debt of loyalty for the rest of his life.
