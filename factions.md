@@ -72,7 +72,7 @@ Skaelings are raiders at their heart and take their wealth from those they deem 
   - Wolfclaw (Olricstaad)
 - **Heroes:** Ekil Bloodheart, Hagmar Wyrmschlager, Harald the Wolf, Hunlaf Thorsson, Knut Thorisson, Magnus Lawmaker, Sigismund, Ulf Donnersson, Vipunen
 - **Friends:** Bjornlings
-- **Enemies:** Aeslings, Bretonnia, Dark Elves, Elves, Hung, Kurgan
+- **Enemies:** Aeslings, Graelings, Bretonnia, Dark Elves, Elves, Hung, Kurgan
 
 ### Sarl
 <img src="https://static.wikia.nocookie.net/totalwarhammer_gamepedia/images/1/17/Wh_main_nor_sarl_256.png/revision/latest/scale-to-width-down/256?cb=20160601173304" width="100"/>
@@ -93,7 +93,7 @@ Northern Sarl minor tribes, that live high in the mountains between the Trollhei
   - The Wolf Brothers or "the Decayed Ones"
 - **Heroes:** Birgit Grylysa, Ekil Bloodheart, Freinar Kaosjeger, Keorl Thunderhand, Sigismund, Vipunen
 - **Friends:** _none_
-- **Enemies:** Aeslings, Baernsonlings, Bretonnia, Kislev, Kurgan
+- **Enemies:** Aeslings, Varg, Baernsonlings, Bretonnia, Kislev, Kurgan
 
 ## Northern Tribes
 Standing in the shadow of Northern Wastes, Northern Norsca is a land touched by Chaos. Whenever the Roiling Eye widens, the tongues of darkness lick the dizzying peaks of this frozen land, influencing all and everything it touches. As a result, those tribes living on the coast of the Frozen Sea are more deeply affected by Chaos and develop more mutations. In addition, they are quite a bit more savage since they regularly come into conflict with the Kurgan tribes of the Wastes. They are a brutal and bloodthirsty lot; killing for the sake of killing.
@@ -149,7 +149,7 @@ Graelings are fierce rivals of their southern neighbors, the Bjornlings. No hono
 - **Friends:** _none_
 - **Enemies:** Albion, Baernsonlings, Bjornlings, Bretonnia, Dwarfs (Norse), Elves, Empire, Kislev, Marienburg, Sarls, Skaelings
 
-#### Varg
+### Varg
 <img src="https://static.wikia.nocookie.net/totalwarhammer_gamepedia/images/c/c2/Wh_main_nor_varg_256.png/revision/latest/scale-to-width-down/256?cb=20160601173315" width="100"/>
 
 Vargs were originally nomad tribes that wandered in the most northern parts of Norsca. They settled in the open lands and tundra from near shores of the Sea of Chaos; an area called the Norscveg Plain. This is very rough land with extreme weather, especially during long, dark and very cold winter months. Along with their herds of Reindeer, these plains team with Beastmen, Giants, Warped Monsters and mighty Mammoths. 
@@ -164,7 +164,7 @@ Vargs have old grudges against the Kurgan tribes on the other side of the Kraken
   - Sortsvinaer (Novgoborg)
 - **Heroes:** Morkar the Uniter, Sigismund, Styrkaar of the Sortsvinaer
 - **Friends:** _none_
-- **Enemies:** Albion, Bretonnia, Dwarfs (Norse), Elves, Empire, Kislev, Kurgan, Marienburg
+- **Enemies:** Albion, Sarls, Bretonnia, Dwarfs (Norse), Elves, Empire, Kislev, Kurgan, Marienburg
 
 
 # The Empire

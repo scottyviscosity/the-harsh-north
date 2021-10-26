@@ -20,6 +20,7 @@
 
 ### Political Climate
 
+![Political Cliate](assets/norsca-political-climate.png)
 See the [factions page](factions.md) for details on relevant factions surrounding Norsca.
 
 

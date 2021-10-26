@@ -7,6 +7,9 @@
 - First Law trilogy - [The North](https://firstlaw.fandom.com/wiki/The_North)
 - Warhammer universe - [Norsca](https://warhammerfantasy.fandom.com/wiki/Norsca)
 
+## Starting Level
+TBD
+
 ## Classes
 The following character classes are permitted with minor revisions for flavor:
 - Barbarian
