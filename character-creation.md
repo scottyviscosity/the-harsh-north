@@ -7,8 +7,13 @@
 - First Law trilogy - [The North](https://firstlaw.fandom.com/wiki/The_North)
 - Warhammer universe - [Norsca](https://warhammerfantasy.fandom.com/wiki/Norsca)
 
-## Starting Level
-TBD
+## General
+- **Character sheet:** Use this [customized Conan d20 character sheet](resources/harsh-north-character-sheet.pdf).
+- **Starting Level:** 2
+- **Starting Stats:** You may assign the following starting values to any of your starting stats: 16, 14, 12, 12, 10, 8.
+- **Hitpoints:** All characters will gain maximum hitpoints at each level.
+- **Starting Money:** See `Page 97` of the Conan core rule book.
+
 
 ## Classes
 The following character classes are permitted with minor revisions for flavor:
@@ -46,9 +51,6 @@ Players are permitted two flaws to help give their character depth. As usual for
 Each player will begin the game with **3 fate points**. I do not plan on handing these out for any rewards during the game, so use them wisely.
 
 See `Page 95` of the Conan core rule book for more details on fate points and their uses.
-
-## Starting money
-See `Page 97` of the Conan core rule book.
 
 ## Reputation
 
