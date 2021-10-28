@@ -60,7 +60,7 @@ See `Page 104` of the Conan core rule book for initial details.
 | ------------------------------------------------------------------------------------ | ---------------- |
 | **An obedient Thrall**                                                               | 1                |
 | A newly recruited guardsman                                                          | 2                |
-| A bookish but well-though-of scholar                                                 | 3                |
+| A bookish but well-thought-of scholar                                                | 3                |
 | A priest who has worked among the people of the area                                 | 4-5              |
 | A person known to be a thief or thug                                                 | 6-7              |
 | **An average Carl; an old soldier in local lord’s retinue**                          | 8-9              |
