@@ -23,7 +23,7 @@ Since most of us are familiar with D&D 3.5 and Pathfinder, I've provided a list 
 - These are in addition to the normal flanking rules
 - Class features or feats that make characters immune to being flanked do not affect the bonus
 
-**Terror of the Unknown (p.313):** When encountering a monstrous foe for the first time, a hero must make a `Will save (DC 10 + 1/2 Creature Hit Die)`.
+**Terror of the Unknown (p.313):** When fighting new monstrous foes, a hero must make a `Will save (DC 10 + 1/2 Creature Hit Die)`.
 - Level 3+ characters will be frightened for 3d6 rounds. A frightened character takes a -2 penalty on attack rolls, saving throws, skill checks and ability checks. He fl ees from the source of his fear as quickly as he can.
 - Lower level characters will fall unconscious for 2d6 minutes.
 
