@@ -13,6 +13,7 @@
 - **Starting Stats:** You may assign the following starting values to any of your starting stats: 16, 14, 12, 12, 10, 8.
 - **Hitpoints:** All characters will gain maximum hitpoints at each level.
 - **Starting Money:** See `Page 97` of the Conan core rule book.
+- **Alignment:** Alignment is not a concept in this campaign. _"There are no good or bad men, it all depend on where you stand."_
 
 
 ## Classes
