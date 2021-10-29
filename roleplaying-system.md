@@ -17,7 +17,7 @@ For simplicity, only the core rule book is allowed.
 Since most of us are familiar with D&D 3.5 and Pathfinder, I've provided a list of the notable rule changes between Conan D20 and those systems (along with a few optional rules and house rules).
 
 ## Misc
-- **Initiative (p.151):** `Initiative Check = 1d20 + Reflex saving throw modifier + Dexterity modifier + any relevant feats or other bonuses (Improved Initiative, etc.)`
+- **Initiative (p.151):** `Initiative = d20 + REF + DEX + feats + bonuses`
 
 ## Defense
 Every character must decide in combat whether to defend by Dodging or Parrying. Most characters will have a preferred method of defence and it is often easiest to assume that said preferred method is in use each round unless the Player specifi es otherwise.
