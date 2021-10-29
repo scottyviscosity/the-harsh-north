@@ -27,6 +27,20 @@ _Note: At this time, only **hostile** attitudes are depicted._
 
 See the [factions page](factions.md) for details on relevant factions surrounding Norsca.
 
+## Culture
+Loyalty is important but it cuts both ways; a crew looks out for their chief and their chief looks out for their crew. Individuals and crews sometimes change allegiance when they find a stronger leader or are wronged by their leader.
+
+In general, strength determines leadership. The leader of a tribe can be challenged for the right of leadership. This isn't always a fight to the death. In such cases, the vanquished generally owes a life debt and chooses to follow the victorious. The one exception to this has been the High King's seat, which is hereditary.
+
+### The Old Ways
+Essentially this amounts to honor, or as much as can be had in a place like Norsca. These are hard men, no doubt, but they do have a code of honor and try to follow the old ways as best they can. 
+
+The Old Ways:
+- to follow your chief
+- to fight bravely and earn a Name
+- to speak and offer terms before a battle
+- to not hurt innocent women and children
+- to settle disputes with a Duel in the Circle (see below)
 
 ## Social Hierarchy
 1. **High King** - A king with power over many kingdoms, typically via vassalage.

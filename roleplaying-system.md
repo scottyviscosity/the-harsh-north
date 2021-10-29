@@ -5,7 +5,7 @@ The 3rd edition Conan D20 system is extremely similar to D&D 3.5 with a few nota
 1. Armor and defense have been overhauled to provide a more robust combat experience
     - AC has been broken down into two active defensive options; *Dodge* and *Parry*
     - Armor instead provides *damage reduction* which can be mitigated by a high *strength* score and weapons with high *armor piercing* scores.
-1. Finesse fighting is available to any character
+1. Finesse fighting is available to any character.
 1. This is a very low magic system with a strong theme of corruption from its use.
 1. Magic items and magical healing are rare.
 
