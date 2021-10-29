@@ -11,18 +11,7 @@ This will be an `asynchronous` campaign.
 ![Old World](assets/viking-rock.jpg)
 
 ## Roleplaying System
-
-We'll be running this campaign using the **3rd edition Conan D20 system**. I chose this system primarily because it's very close to systems we all know (D&D 3.5 and Pathfinder), but it better suits the theme the story will touch on. I could have used the Warhammer Fantasy rules, but these are pretty foreign to us and I don't want to add that burden.
-
-The 3rd edition Conan D20 system is extremely similar to D&D 3.5 with a few notable exceptions:
-1. AC has been broken down into two active defensive options (*Dodge* and *Parry*), and armor instead provides *damage reduction*.
-1. This is a very low magic system with a strong theme of corruption from its use.
-1. Magic items and magical healing are rare.
-
-### Rulebook
-For simplicity, only the core rule book is allowed.
-- [Conan D20 3.5](https://drive.google.com/file/d/0B36P1ltRqaAMMXNhMVQtM2NuSEU/view?usp=sharing&resourcekey=0-ftS9tc5byv7bF_sSPQL2ww)
-
+See the [roleplaying system page](roleplaying-system.md) for details about **3rd edition Conan D20 system**.
 
 ## Campaign Setting
 See the [campaign setting page](campaign-setting.md) for details about Norsca from Warhammer's Old World.
