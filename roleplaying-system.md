@@ -19,12 +19,12 @@ Since most of us are familiar with D&D 3.5 and Pathfinder, I've provided a list 
 ## Misc
 **Initiative (p.151):** `Initiative = d20 + REF + DEX + feats + bonuses`
 
-**Multiple Opponents (p.181):** If several characters attack using melee weapons on a single enemy in the same round, each of the attackers after the first to attack gains a `cumulative +1 circumstance bonus on his attack rolls`. These bonuses only ever apply to melee attacks. 
+**Multiple Opponents (p.181):** If several characters attack using melee weapons on a single enemy in the same round, each of the attackers after the first to attack gains a `cumulative +1 circumstance bonus on his attack rolls`. These bonuses only ever apply to melee attacks.
 - These are in addition to the normal flanking rules
 - Class features or feats that make characters immune to being flanked do not affect the bonus
 
 **Terror of the Unknown (p.313):** When fighting new monstrous foes, a hero must make a `Will save (DC 10 + 1/2 Creature Hit Die)`.
-- Level 3+ characters will be frightened for 3d6 rounds. A frightened character takes a -2 penalty on attack rolls, saving throws, skill checks and ability checks. He fl ees from the source of his fear as quickly as he can.
+- Level 3+ characters will be frightened for 3d6 rounds. A frightened character takes a -2 penalty on attack rolls, saving throws, skill checks and ability checks. He flees from the source of his fear as quickly as he can.
 - Lower level characters will fall unconscious for 2d6 minutes.
 
 ## Defense
@@ -52,11 +52,11 @@ Every character must decide in combat whether to defend by Dodging or Parrying. 
 - See p.153 for an example if you get confused.
 
 **Armor Damage & Repair (p.153):** When armour is hit for **20+ damage (after the DR), its DR is reduced by 1d4.**
-- Armor can be repaired by anyone with the Craft (armoursmith) skill at a cost of 20% of the original cost of the armour per 1 DR damage. 
-- Repair cost is halfed if the character does it himself with a Craft (armourer) check (DC 10) or Craft (blacksmith) check (DC 15) and ten minutes of time for each 1 DR repaired. 
+- Armor can be repaired by anyone with the Craft (armoursmith) skill at a cost of 20% of the original cost of the armour per 1 DR damage.
+- Repair cost is halfed if the character does it himself with a Craft (armourer) check (DC 10) or Craft (blacksmith) check (DC 15) and ten minutes of time for each 1 DR repaired.
 - If armour is reduced to 0 DR, it is completely destroyed.
 
-## Attacks 
+## Attacks
 **Finesse Fighting (p.154):** When using a finesse weapon, you may use Dex instead of Str for attack.
 - _Finesse Weapons:_ All light weapons and several one-handed or two-handed piercing weapons
 - **Bypassing Armor:** **Ignore Armor DR** when `attack roll > Defense + DR`
@@ -74,7 +74,7 @@ Every character must decide in combat whether to defend by Dodging or Parrying. 
     - If the save fails, the character drops to -10 HP and is dead. A `Fate Point` may still be used to be "left for dead."
 
 ## Healing
-**[House Rule] Max natural healing:** When calculating natural healing, always take the maximum value. 
+**[House Rule] Max natural healing:** When calculating natural healing, always take the maximum value.
 
 ## House Rule: Damage Fatigue and Exhaustion
 The goal of this rule is to make low health actually impact how characters can perform. Rather than giving a blanket penalty across the board like other systems (L5R for example), we will instead apply fatigue and exhaustion effects when a player drops at or below a certain percent of their maximum hitpoint value.
