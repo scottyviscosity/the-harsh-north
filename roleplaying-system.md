@@ -1,20 +1,26 @@
 # Conan D20 System
 We'll be running this campaign using the **3rd edition Conan D20 system**. I chose this system primarily because it's very close to systems we all know (D&D 3.5 and Pathfinder), but it better suits the theme the story will touch on. I could have used the Warhammer Fantasy rules, but these are pretty foreign to us and I don't want to add that burden.
 
-The 3rd edition Conan D20 system is extremely similar to D&D 3.5 with a few notable exceptions:
+The 3rd edition Conan D20 system is built directly off of D&D 3.5. The rules are mostly the same, however there are some notable differences. Combat in conant is more robust and more deadly. The magic system is quite different, focusing much more on low magic with a strong theme of corruption from its use.
+
 1. Armor and defense have been overhauled to provide a more robust combat experience
     - AC has been broken down into two active defensive options; *Dodge* and *Parry*
     - Armor instead provides *damage reduction* which can be mitigated by a high *strength* score and weapons with high *armor piercing* scores.
-1. Finesse fighting is available to any character.
-1. This is a very low magic system with a strong theme of corruption from its use.
+1. Finesse fighting is available to any character and offers a chance to bypass armor's damage reduction.
+1. Magic is rare and very powerful, but comes at a price to the weilder, potentially draining their life force or driving them insane.
 1. Magic items and magical healing are rare.
 
 ## Rulebook
-For simplicity, only the core rule book is allowed.
-- [Conan D20 3.5](https://drive.google.com/file/d/0B36P1ltRqaAMMXNhMVQtM2NuSEU/view?usp=sharing&resourcekey=0-ftS9tc5byv7bF_sSPQL2ww)
+For simplicity, only the core rule book is allowed. I've also included a handful of cheat sheets for D&D 3.5 rules. 
 
-# Notable Rules
-Since most of us are familiar with D&D 3.5 and Pathfinder, I've provided a list of the notable rule changes between Conan D20 and those systems (along with a few optional rules and house rules).
+- [Conan D20 3.5](https://drive.google.com/file/d/0B36P1ltRqaAMMXNhMVQtM2NuSEU/view?usp=sharing&resourcekey=0-ftS9tc5byv7bF_sSPQL2ww)
+- [3.5 Combat Cheat Sheet (1)](assets/roleplaying-system/3_5-combat-cheat-sheet.jpeg)
+- [3.5 Combat Cheat Sheet (2)](assets/roleplaying-system/3_5-combat-cheat-sheet-2.jpeg)
+- [3.5 Combat Reference](assets/roleplaying-system/3_5-combat-reference.png)
+- [3.5 DM Screen](assets/roleplaying-system/3_5-dm-screen.pdf)
+
+# Notable Combat Rules
+Since most of us are familiar with D&D 3.5 and Pathfinder, I've provided a list of the notable rule changes between Conan D20 and those systems (along with a few optional rules and house rules). As usual, I do encourage you to take a look at the rulebook.
 
 ## Misc
 **Initiative (p.151):** `Initiative = d20 + REF + DEX + feats + bonuses`
@@ -88,3 +94,12 @@ A fatigued character can neither run nor charge and takes a -2 penalty to Streng
 
 ### _Exhausted_
 An exhausted character moves at half speed and takes a -6 penalty to Strength and Dexterity. After 1 hour of complete rest, an exhausted character becomes fatigued. A fatigued character becomes exhausted by doing something else that would normally cause fatigue.
+
+# Sorcery
+The standard 3.5 magic system mostly no longer applies and has been replaced by a similar, but much less fantastical system. For brevity, I will not be going into much detail here and instead suggest reading the rule book.
+
+- Only the `Scholar` class can use magic, unless you use the `Dabbler feat` to gain very limited spellcasting.
+- Rather than spell slots, Conan uses Power Points (like mana).
+- There is something inherently corrupt about magic use. In the game, this premise is enforced by some of the methods Scholars use to gain or boost Power Points: 
+  - Rituals (possibly including orgies) or the good-old-fashioned ritual sacrifice, with a Feat called `Tortured Sacrifice` allowing even more points for a prolonged and painful death.
+- Rule of Obsession: A sorcerer is able to use magic because he is obsessed with power, and if that focus is diluted by any other interest in life (a romance, political allegiance, or taking levels outside the Scholar class) this creates an 'Obsession' against the sorcerer's focus, rated at 1 to 3 points, that reduces a sorcerer's Base Power Points accordingly. 
