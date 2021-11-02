@@ -1,5 +1,5 @@
 # Discord
-The Harsh North Discord server will be where gameplay takes place.
+The [Harsh North Discord server](https://discord.gg/6FWfkgBX) will be where gameplay takes place.
 
 ## Using Chat Channels
 
