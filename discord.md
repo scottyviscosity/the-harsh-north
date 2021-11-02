@@ -17,6 +17,7 @@ I added the [avrae discord bot](https://avrae.io/commands#dice) for rolling dice
 - Ideally, we would change our discord avatars to represent our characters.
 - Speak from the character's perspective. Avoid making statements in the affirmative, instead favoring impressions and assumptions being made on the character's behalf.
 - Share what the character is thinking or feeling. Inner monologue and thought process is something unique we can add in a text based campaign.
+- Be mindful of etiquette when posting. If you see another player is already working on a post in a common thread, avoid stealing the focus from them. We'll have to work out how best to avoid stomping on each other and making the main thread confusing.
 
 ## Syntax
 - Use plain text to describe actions and activity in the scene.
