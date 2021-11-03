@@ -32,7 +32,7 @@ The following character classes are permitted with minor revisions for flavor:
 ## Races
 Since we'll be playing in Norsca, the only playable race will be human. We'll keep it simple and use the standard Human race from pathfinder. 
 
-In general, I expect every player to be a Norscan. Under extremely special circumstances I may allow you to be from a neighboring human region (say you started out as an Impirial who is a captured slave), but the goal is to have every player act as a true Norscan and be working for the same kingdom or tribe.
+In general, I expect every player to be a Norscan of clan **Skaeling**. Under extremely special circumstances I may allow you to be from a neighboring human region (say you started out as an Impirial who is a captured slave), but the goal is to have every player act as a true Norscan and be working for the same kingdom or tribe.
 
 **Standard Racial Traits**
 - **Ability Score Modifiers:** Human characters gain a +2 racial bonus to one ability score of their choice at creation to represent their varied nature.
