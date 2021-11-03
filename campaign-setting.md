@@ -19,12 +19,12 @@ Download and read the [Norsca Campaign Setting](https://drive.google.com/file/d/
 
 ![Norsca](resources/maps/old-world-norsca.png)
 
-### [Other Maps](resources/maps)
 - [Old World Overview](resources/maps/old-world.webp)
 - [Norscan Geographic Map](resources/maps/old-world-norsca.png)
 - [Norscan Detail Map](resources/maps/norsca-detail-map-v3.jpg)
 - [Norsca Factions](resources/maps/map-norsca-factions.jpg)
 - [The Empire](resources/maps/old-world-empire.jpg)
+- [Other Maps](resources/maps)
 
 
 ## Political Hierarchy
