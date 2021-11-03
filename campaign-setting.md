@@ -1,15 +1,30 @@
 # Campaign Setting
 
+Download and read the [Norsca Campaign Setting](https://drive.google.com/file/d/1-FAMZA2lqEmKI3TSAQgg8RCXqHaltvPZ/view?usp=sharing) for a great overview of Norsca.
+
+**Recommended Material:**
+- Chapter 1: Land
+- Chapter 2: People of Norsca (p.38)
+- Chapter 4: Society, (p.63)
+    - Culture (p.69)
+    - Death (p.70)
+    - Insults (p.72)
+    - Seasonal Events (p.80)
+- Chapter 5: Tribes (p.91 - 113)
+- Chapter 6: Religion (p.135)
+    - Olric (p.141, 177)
+    - Ancestor Worship (p.142)
+
 ## Maps
 
-### Old World
-![Old World](resources/maps/old-world.jpg)
+![Norsca](resources/maps/old-world-norsca.png)
 
-### Norsca
-![Norsca](resources/maps/map-norsca-factions.jpg)
-
-### Other Maps
-- [Maps](resources/maps)
+### [Other Maps](resources/maps)
+- [Old World Overview](resources/maps/old-world.webp)
+- [Norscan Geographic Map](resources/maps/old-world-norsca.png)
+- [Norscan Detail Map](resources/maps/norsca-detail-map-v3.jpg)
+- [Norsca Factions](resources/maps/map-norsca-factions.jpg)
+- [The Empire](resources/maps/old-world-empire.jpg)
 
 
 ## Political Hierarchy
@@ -25,12 +40,14 @@ In the Old World cultures clash; Kingdoms and Empires struggle with another for 
 _Note: At this time, only **hostile** attitudes are depicted._
 ![Political Climate](assets/norsca-political-climate.png)
 
-See the [factions page](factions.md) for details on relevant factions surrounding Norsca.
+> _See the [factions page](factions.md) for details on relevant factions surrounding Norsca._
 
 ## Culture
 Loyalty is important but it cuts both ways; a crew looks out for their chief and their chief looks out for their crew. Individuals and crews sometimes change allegiance when they find a stronger leader or are wronged by their leader.
 
 In general, strength determines leadership. The leader of a tribe can be challenged for the right of leadership. This isn't always a fight to the death. In such cases, the vanquished generally owes a life debt and chooses to follow the victorious. The one exception to this has been the High King's seat, which is hereditary.
+
+> _See Chapter 2 (p.38) and Chapter 4 (p.63) of the [Norsca Campaign Setting](https://drive.google.com/file/d/1-FAMZA2lqEmKI3TSAQgg8RCXqHaltvPZ/view?usp=sharing) for lots more detail._
 
 ### The Old Ways
 Essentially this amounts to honor, or as much as can be had in a place like Norsca. These are hard men, no doubt, but they do have a code of honor and try to follow the old ways as best they can. 
@@ -48,10 +65,11 @@ The Old Ways:
 1. **Seers** - Spiritual leaders, shamen, magi, magisters.
 1. **Jarl/Chief** - Lords or Nobility; a chieftain. 
 1. **Named Men** - Noted or famed warriors.
-1. **Carl** - Freemen and land owners; normal citizens.
+1. **Carl** - Freemen and land owners; those skilled in warfare.
+1. **Peasant** - Builders, farmers, and craftsmen; those unskilled in warfare.
 1. **Thrall** - Slaves of all kinds; second wives, forced laborers, servants, levy soldiers.
 
-See the [reputation section on the character creation page](character-creation.md#reputation) for more clarity on the disparity in reputation between the social classes.
+> _See the [reputation section on the character creation page](character-creation.md#reputation) for more clarity on the disparity in reputation between the social classes._
 
 ### Named Men
 At the top of the non-ruling social scale are the Named Men, those warriors who have earned great respect in battle. Most earn badass names, like Shama Heartless, the Bloody-Nine, or Tul Duru Thunderhead. Sometimes however, they gets pegged with an unfortunate nicknames, such as Forley the Weakest or Caul Shivers, who fell in a freezing river during a raid.

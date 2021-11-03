@@ -7,17 +7,17 @@ The 3rd edition Conan D20 system is built directly off of D&D 3.5. The rules are
     - AC has been broken down into two active defensive options; *Dodge* and *Parry*
     - Armor instead provides *damage reduction* which can be mitigated by a high *strength* score and weapons with high *armor piercing* scores.
 1. Finesse fighting is available to any character and offers a chance to bypass armor's damage reduction.
-1. Magic is rare and very powerful, but comes at a price to the weilder, potentially draining their life force or driving them insane.
+1. Magic is rare and very powerful, but comes at a price to the wielder, potentially draining their life force or driving them insane.
 1. Magic items and magical healing are rare.
 
 ## Rulebook
 For simplicity, only the core rule book is allowed. I've also included a handful of cheat sheets for D&D 3.5 rules. 
 
 - [Conan D20 3.5](https://drive.google.com/file/d/0B36P1ltRqaAMMXNhMVQtM2NuSEU/view?usp=sharing&resourcekey=0-ftS9tc5byv7bF_sSPQL2ww)
-- [3.5 Combat Cheat Sheet (1)](assets/roleplaying-system/3_5-combat-cheat-sheet.jpeg)
-- [3.5 Combat Cheat Sheet (2)](assets/roleplaying-system/3_5-combat-cheat-sheet-2.jpeg)
-- [3.5 Combat Reference](assets/roleplaying-system/3_5-combat-reference.png)
-- [3.5 DM Screen](assets/roleplaying-system/3_5-dm-screen.pdf)
+- [3.5 Combat Cheat Sheet (1)](resources/roleplaying-system/3_5-combat-cheat-sheet.jpeg)
+- [3.5 Combat Cheat Sheet (2)](resources/roleplaying-system/3_5-combat-cheat-sheet-2.jpeg)
+- [3.5 Combat Reference](resources/roleplaying-system/3_5-combat-reference.png)
+- [3.5 DM Screen](resources/roleplaying-system/3_5-dm-screen.pdf)
 
 # Notable Combat Rules
 Since most of us are familiar with D&D 3.5 and Pathfinder, I've provided a list of the notable rule changes between Conan D20 and those systems (along with a few optional rules and house rules). As usual, I do encourage you to take a look at the rulebook.

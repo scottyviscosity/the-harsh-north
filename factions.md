@@ -2,8 +2,11 @@
 
 # Norsca
 
-![Norscan Geography Map](resources/maps/map-norsca-geography.jpg)
-Open the [Norscan Geography Map](resources/maps/map-norsca-geography.jpg) directly for more detail.
+![Norsca Factions](resources/maps/map-norsca-factions.jpg)
+
+> _Refer to the [campaign setting page](campaign-setting.md#maps) for more maps._
+
+> _The descriptions below are summaries of what is available in Chapter 5 (p.91-113) of the [Norsca Campaign Setting](https://drive.google.com/file/d/1-FAMZA2lqEmKI3TSAQgg8RCXqHaltvPZ/view?usp=sharing). For even more, check out that chapter._
 
 ## Southern Tribes
 The southern tribes are somewhat milder than their savage brethren to the north. While these barbarians raid and plunder like all the rest, it is from these tribes that new efforts for peaceful communications originate. The southern tribes include the Baernsonlings, Bjornlings, Skaelings, and the Sarls.
@@ -37,7 +40,7 @@ Baernsonlings are famous for their werekin or Ulfwerenar. Ulfwerenar are most co
 ### Bjornling
 <img src="https://static.wikia.nocookie.net/totalwarhammer_gamepedia/images/3/30/Wh_main_nor_bjornling_256.png/revision/latest/scale-to-width-down/256?cb=20160601173246" width="100"/>
 
-Bjornlings are the most cosmopolitan tribe in Norsca and are least impacted by the Northern Wastes due to thier more distant location. They are brave sailers and traders who have connections to all the lands in Old World, especially thanks to the access to the Mighty Reik river granted to them via their somewhat reluctant trade partners in Marienburg. Some famous explorers have even risen from among their tribe.
+Bjornlings are the most cosmopolitan tribe in Norsca and are least impacted by the Northern Wastes due to thier relative distance. They are brave sailers and traders who have connections to all the lands in Old World, especially thanks to the access to the Mighty Reik river granted to them via their somewhat reluctant trade partners in Marienburg. Some famous explorers have even risen from among their tribe.
 
 Even though Bjornlings are traders and explorers, this does nothing to deminish their Norscan roots as reavers and jarls have been known to turn to piracy when it suits them. Powerful leaders have been known to rally jarls to join huge raids to Albion, Bretonnia, the Empire, and even against the distant Elves in Ulthuan. They shun worship of the Dark Gods of their Northern counterparts in favor of the Old Gods.
 
