@@ -32,6 +32,8 @@ Download and read the [Norsca Campaign Setting](https://drive.google.com/file/d/
 1. **Kingdoms** - Collections of clans lead by a single king.
 1. **Clan** - Groups of communities and peoples lead by a single strong war leader.
 
+### Factions
+See the [factions page](factions.md) for details on relevant factions surrounding Norsca.
 
 ### Political Climate
 
@@ -40,7 +42,6 @@ In the Old World cultures clash; Kingdoms and Empires struggle with another for 
 _Note: At this time, only **hostile** attitudes are depicted._
 ![Political Climate](assets/norsca-political-climate.png)
 
-> _See the [factions page](factions.md) for details on relevant factions surrounding Norsca._
 
 ## Culture
 Loyalty is important but it cuts both ways; a crew looks out for their chief and their chief looks out for their crew. Individuals and crews sometimes change allegiance when they find a stronger leader or are wronged by their leader.
