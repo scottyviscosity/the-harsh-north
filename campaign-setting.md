@@ -15,7 +15,6 @@
 - [Moons: Mannslieb & Morrslieb](#moons-mannslieb--morrslieb)
 
 ## Norsca Campaign Setting
-----
 Download and read the [Norsca Campaign Setting](https://drive.google.com/file/d/1-FAMZA2lqEmKI3TSAQgg8RCXqHaltvPZ/view?usp=sharing) for a great overview of Norsca.
 
 **Recommended Material:**
@@ -32,7 +31,6 @@ Download and read the [Norsca Campaign Setting](https://drive.google.com/file/d/
     - Ancestor Worship (p.142)
 
 ## Maps
-----
 ![Norsca](resources/maps/old-world-norsca.png)
 
 - [Old World Overview](resources/maps/old-world.webp)
@@ -43,11 +41,9 @@ Download and read the [Norsca Campaign Setting](https://drive.google.com/file/d/
 - [Other Maps](resources/maps)
 
 ## Factions
-----
 See the [factions page](factions.md) for details on relevant factions surrounding Norsca.
 
 ## Political Hierarchy
-----
 1. **Norsca** - The region where all Norscan people live; not a single nation.
 1. **Kingdoms** - Collections of clans lead by a single king.
 1. **Clan** - Groups of communities and peoples lead by a single strong war leader.
@@ -61,7 +57,6 @@ _Note: At this time, only **hostile** attitudes are depicted._
 
 
 ## Culture
-----
 Loyalty is important but it cuts both ways; a crew looks out for their chief and their chief looks out for their crew. Individuals and crews sometimes change allegiance when they find a stronger leader or are wronged by their leader.
 
 In general, strength determines leadership. The leader of a tribe can be challenged for the right of leadership. This isn't always a fight to the death. In such cases, the vanquished generally owes a life debt and chooses to follow the victorious. The one exception to this has been the High King's seat, which is hereditary.
@@ -79,7 +74,6 @@ The Old Ways:
 - to settle disputes with a Duel in the Circle (see below)
 
 ## Social Hierarchy
-----
 1. **High King** - A king with power over many kingdoms, typically via vassalage.
 1. **King** - The leader of a particular kingdom or tribe.
 1. **Seers** - Spiritual leaders, shamen, magi, magisters.
@@ -99,14 +93,12 @@ Though Norse society is patriarchal, women have a stronger place in these lands 
 
 
 ## Military
-----
 Norscan armies are grouped about the chieftains of the clans, strong war leaders in their own right. Most of the soldiers are Thralls; peasants young and old pressed into service and lightly armed. In the past these were badly trained, but recent wars have been raging for so long that many have become hard fighters. Each chieftain keeps household warriors called Carls, well-armed, armoured, skilled, and disciplined. Lastly there are the Named Men, who might lead groups of Carls on the field, or act as scouts or raiders deep in the enemy’s terrain.
 
 ### Duels in the Circle
 Duel in the Circle, a one-on-one fight to the death between champions, used to resolve disputes without war. The form of a Duel is highly ritualised. The men fight in a circle six good strides across, with the grass shaved to the roots. Carls from both parties form a shield-wall around the edge, allowing only one man to leave alive. Before the bout, a judge introduces the champions, confirms the stakes, and chooses weapons by the spin of a shield. Thus each man can bring any weapon, but might have to fight with his opponents. Any form of cheating in a Duel is considered a terrible crime. The victor can choose to spare the life of his opponent, which means the man owes a debt of loyalty for the rest of his life.
 
 ## Moons: Mannslieb & Morrslieb
-----
 The Warhammer world is orbited by two moons.
 
 ![Wahammer Moons](https://1d4chan.org/images/a/a2/Warhammer_Moons.png)
