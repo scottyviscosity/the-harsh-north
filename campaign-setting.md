@@ -1,5 +1,21 @@
 # Campaign Setting
 
+- [Norsca Campaign Setting](#norsca-campaign-setting-book)
+- [Maps](#maps)
+- [Factions](#factions)
+- [Political Hierarchy](#political-hierarchy)
+  - [Political Climate](#political-climate)
+- [Culture](#culture)
+  - [The Old Ways](#the-old-ways)
+- [Social Hierarchy](#social-hierarchy)
+  - [Named Men](#named-men)
+  - [Women](#women)
+- [Military](#military)
+  - [Duels in the Circle](#duels-in-the-circle)
+- [Moons: Mannslieb & Morrslieb](#moons-mannslieb--morrslieb)
+
+## Norsca Campaign Setting
+----
 Download and read the [Norsca Campaign Setting](https://drive.google.com/file/d/1-FAMZA2lqEmKI3TSAQgg8RCXqHaltvPZ/view?usp=sharing) for a great overview of Norsca.
 
 **Recommended Material:**
@@ -16,7 +32,7 @@ Download and read the [Norsca Campaign Setting](https://drive.google.com/file/d/
     - Ancestor Worship (p.142)
 
 ## Maps
-
+----
 ![Norsca](resources/maps/old-world-norsca.png)
 
 - [Old World Overview](resources/maps/old-world.webp)
@@ -26,14 +42,15 @@ Download and read the [Norsca Campaign Setting](https://drive.google.com/file/d/
 - [The Empire](resources/maps/old-world-empire.jpg)
 - [Other Maps](resources/maps)
 
+## Factions
+----
+See the [factions page](factions.md) for details on relevant factions surrounding Norsca.
 
 ## Political Hierarchy
+----
 1. **Norsca** - The region where all Norscan people live; not a single nation.
 1. **Kingdoms** - Collections of clans lead by a single king.
 1. **Clan** - Groups of communities and peoples lead by a single strong war leader.
-
-### Factions
-See the [factions page](factions.md) for details on relevant factions surrounding Norsca.
 
 ### Political Climate
 
@@ -44,6 +61,7 @@ _Note: At this time, only **hostile** attitudes are depicted._
 
 
 ## Culture
+----
 Loyalty is important but it cuts both ways; a crew looks out for their chief and their chief looks out for their crew. Individuals and crews sometimes change allegiance when they find a stronger leader or are wronged by their leader.
 
 In general, strength determines leadership. The leader of a tribe can be challenged for the right of leadership. This isn't always a fight to the death. In such cases, the vanquished generally owes a life debt and chooses to follow the victorious. The one exception to this has been the High King's seat, which is hereditary.
@@ -61,6 +79,7 @@ The Old Ways:
 - to settle disputes with a Duel in the Circle (see below)
 
 ## Social Hierarchy
+----
 1. **High King** - A king with power over many kingdoms, typically via vassalage.
 1. **King** - The leader of a particular kingdom or tribe.
 1. **Seers** - Spiritual leaders, shamen, magi, magisters.
@@ -80,7 +99,28 @@ Though Norse society is patriarchal, women have a stronger place in these lands 
 
 
 ## Military
+----
 Norscan armies are grouped about the chieftains of the clans, strong war leaders in their own right. Most of the soldiers are Thralls; peasants young and old pressed into service and lightly armed. In the past these were badly trained, but recent wars have been raging for so long that many have become hard fighters. Each chieftain keeps household warriors called Carls, well-armed, armoured, skilled, and disciplined. Lastly there are the Named Men, who might lead groups of Carls on the field, or act as scouts or raiders deep in the enemy’s terrain.
 
 ### Duels in the Circle
 Duel in the Circle, a one-on-one fight to the death between champions, used to resolve disputes without war. The form of a Duel is highly ritualised. The men fight in a circle six good strides across, with the grass shaved to the roots. Carls from both parties form a shield-wall around the edge, allowing only one man to leave alive. Before the bout, a judge introduces the champions, confirms the stakes, and chooses weapons by the spin of a shield. Thus each man can bring any weapon, but might have to fight with his opponents. Any form of cheating in a Duel is considered a terrible crime. The victor can choose to spare the life of his opponent, which means the man owes a debt of loyalty for the rest of his life.
+
+## Moons: Mannslieb & Morrslieb
+----
+The Warhammer world is orbited by two moons.
+
+![Wahammer Moons](https://1d4chan.org/images/a/a2/Warhammer_Moons.png)
+
+The larger of the two moons is called Mannslieb and it acts and appears as any normal moon, having a cycle of 25 days from full to full, and orbits the planet upon a predictable orbit. Mannslieb means "Beloved of Manann" in Reikspiel and this moon is held sacred to Manann, god of the Sea.
+
+Morrslieb, the smaller moon, is all but predictable, appearing sometimes closer, and other times farther away than its partner. Its position has major influence upon the Winds of Magic.
+
+It is named Morrslieb, meaning "Beloved of Morr", in honour of Morr, god of the dead.
+
+A common legend tells that daemons once preyed upon the people of the world from a gateway in the sky, until Morr inflicted a great death upon them. Afterwards he fashioned the second moon from the wreckage of the daemons, so that mortals would never forget how he had saved them.
+
+The second legend, which is mainly held by followers of Chaos, is that upon the collapse of the polar warp gates[1], a great block of Warpstone was hurled high into the sky, where it now circles the planet endlessly, spreading Chaos over the lands which it passes.
+
+From time to time, meteors of Warpstone coming from Morrslieb fall upon the planet.
+
+There are two nights in the year in which both moons are full at the same time. The first is called Hexensnacht ("Witching Night") and the other one Geheimnisnacht ("Night of Mystery"). To most, these are greatly feared and ill-omened nights of the year, and even the most cynical sceptic will avoid the eerie light cast by the full moons. On the other hand, gatherings and ritual sacrifices are held by the worshippers of Chaos on these nights.
