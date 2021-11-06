@@ -111,7 +111,7 @@ It is named Morrslieb, meaning "Beloved of Morr", in honour of Morr, god of the 
 
 A common legend tells that daemons once preyed upon the people of the world from a gateway in the sky, until Morr inflicted a great death upon them. Afterwards he fashioned the second moon from the wreckage of the daemons, so that mortals would never forget how he had saved them.
 
-The second legend, which is mainly held by followers of Chaos, is that upon the collapse of the polar warp gates[1], a great block of Warpstone was hurled high into the sky, where it now circles the planet endlessly, spreading Chaos over the lands which it passes.
+The second legend, which is mainly held by followers of Chaos, is that upon the collapse of the polar warp gates, a great block of Warpstone was hurled high into the sky, where it now circles the planet endlessly, spreading Chaos over the lands which it passes.
 
 From time to time, meteors of Warpstone coming from Morrslieb fall upon the planet.
 
