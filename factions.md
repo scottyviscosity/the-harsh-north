@@ -1,5 +1,27 @@
 # Factions
 
+- [Norsca](#norsca)
+  - [Southern Tribes](#southern-tribes)
+    - [Baersonlings](#baersonlings)
+    - [Bjornling](#bjornling)
+    - [Skaeling](#skaeling)
+    - [Sarl](#sarl)
+  - [Northern Tribes](#northern-tribes)
+    - [Aesling](#aesling)
+    - [Graeling](#graeling)
+    - [Varg](#varg)
+- [The Empire](#the-empire)
+  - [Nordland](#nordland)
+  - [Osterland](#osterland)
+- [Bretonnia](#bretonnia)
+  - [Couronne](#couronne)
+- [Other Factions](#other-factions)
+  - [Kurgan Tribes of the Waste](#kurgan-tribes-of-the-waste)
+  - [Marienburg, Westerland (aka Wasteland)](#marienburg-westerland-aka-wasteland)
+  - [Kislev](#kislev)
+  - [Norse Dwarves](#norse-dwarves)
+    - [Kraka Drak](#kraka-drak)
+
 # Norsca
 
 ![Norsca Factions](resources/maps/map-norsca-factions.jpg)
