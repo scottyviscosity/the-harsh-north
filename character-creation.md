@@ -16,7 +16,6 @@
 - **Starting Money:** See `Page 97` of the Conan core rule book.
 - **Alignment:** Alignment is not a concept in this campaign. _"There are no good or bad men, it all depend on where you stand."_
 
-
 ## Classes
 The following character classes are permitted with minor revisions for flavor:
 - Barbarian

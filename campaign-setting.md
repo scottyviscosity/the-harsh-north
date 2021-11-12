@@ -52,7 +52,7 @@ See the [factions page](factions.md) for details on relevant factions surroundin
 
 ### Political Climate
 
-In the Old World cultures clash; Kingdoms and Empires struggle with another for territory and dominance. However, it is important to remember that within otherwise friendly kingdoms, or even within a single kingdom itself, there are often feuds and alliances; some petty and fleeting, and others truly blood feuds lasting generations. These machinations are too many to document in their entirety, but here are a few of the major attitudes between the Norscan Factions and their immediate neighbors.
+In the Old World, cultures clash; Kingdoms and Empires struggle with another for territory and dominance. However, it is important to remember that within otherwise friendly kingdoms, or even within a single kingdom itself, there are often feuds and alliances; some petty and fleeting, and others truly blood feuds lasting generations. These machinations are too many to document in their entirety, but here are a few of the major attitudes between the Norscan Factions and their immediate neighbors.
 
 ![Political Climate](assets/norsca-political-climate.png)
 

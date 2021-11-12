@@ -29,6 +29,6 @@ See the [factions page](factions.md) for details on relevant factions surroundin
 ## Character Creation
 See the [character creation page](character-creation.md) for more details.
 
-# Discord Server
+## Discord Server
 See the [discord page](discord.md) for how to participate to gameplay via Discord.
 
