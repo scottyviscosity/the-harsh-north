@@ -41,7 +41,9 @@ Download and read the [Norsca Campaign Setting](https://drive.google.com/file/d/
 - [Other Maps](resources/maps)
 
 ## Factions
-See the [factions page](factions.md) for details on relevant factions surrounding Norsca.
+See the **[factions page](factions.md)** for details on relevant factions surrounding Norsca.
+
+![Norsca Factions](resources/maps/map-norsca-factions.jpg)
 
 ## Political Hierarchy
 1. **Norsca** - The region where all Norscan people live; not a single nation.
