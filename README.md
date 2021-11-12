@@ -20,11 +20,11 @@ See the [roleplaying system page](roleplaying-system.md) for details about **3rd
 ## Campaign Setting
 See the [campaign setting page](campaign-setting.md) for details about Norsca from Warhammer's Old World.
 
-## Factions
-See the **[factions page](factions.md)** for details on relevant factions surrounding Norsca.
-
 ### Norsca
 ![Norsca](resources/maps/map-norsca-factions.jpg)
+
+## Factions
+See the [factions page](factions.md) for details on relevant factions surrounding Norsca.
 
 ## Character Creation
 See the [character creation page](character-creation.md) for more details.
