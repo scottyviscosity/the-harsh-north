@@ -64,6 +64,41 @@ In general, strength determines leadership. The leader of a tribe can be challen
 
 > _See Chapter 2 (p.38) and Chapter 4 (p.63) of the [Norsca Campaign Setting](https://drive.google.com/file/d/1-FAMZA2lqEmKI3TSAQgg8RCXqHaltvPZ/view?usp=sharing) for lots more detail._
 
+### Northern Clans
+- In a constant state of conflict with the Kurgan of the North, their Southern brothers, and always looking to take advantage of the weak Southern Realms
+- More likely to be influenced by the Northern Wastes and the powers that reside there
+- Worship the old gods, the new gods, and any number of minor dieties who may show them favor
+- Stick to the old ways, but have an odd way of interpreting them; often bending the rules for their own benefit and gaining a reputation for lacking honor.
+- Comparison: Mythical Vikings (bloodthirsty heathens and barbarians)
+- Factions: Baernsonlings, Bjornlings, Skaelings, and the Sarls.
+
+### Southern Clans
+- Value strength, wealth, solidarily, and capable warriors as their leaders
+- The old ways are still central to their culture, though younger generations seem to stray further and further out of bounds. It's the old boys who hold them in the highest regards.
+- Worship the old gods and view any outsider religions with skepticism and hostility
+- Strong sense of community, growth, and loyalty; strive to make life better for their clan
+- While viewing their Southern neighbors (e.g. Empire) as weaklings and cowards, they do envy their way of life and are jealous of their achievements. They look to build great cities, strong castles, and monuments to ensure their people are remembered forever.  
+- Comparison: Real world Vikings or Scandinavians, maybe a bit of the Saxons
+- Factions: Baernsonlings, Bjornlings, Skaelings, and the Sarls.
+
+### Hillmen
+- More likely to migrate than other groups
+- Superstitious, Generally worshiping the old gods (the exception being some northern Hillmen)
+- Hold the old ways in the highest regard
+- Simple living in the most remote regions of an already harsh land.
+- Names among these people generally take the form of a part hyphens with a clipped accent in the middle. (e.g. `Grom-gil-Gorm`)
+- Comparison: Celtic Irish or Highlander Scots
+- Factions: Most factions have some areas where this culture would be dominant, but are predominant among the Sarls, Baersonlings, and the Aeslings. 
+
+### Wildmen
+- Nomads of the Northern Wastes
+- Considered savages even to the Northern Clans
+- Worship dark gods who require ritual sacrafice
+- Disdain "civilized" peoples
+- Distinguished names amoung these people sometimes take the form of hyphenated descriptions similar to those of native americans. (e.g. `stranger-come-knocking`)
+- Comparison: White Mongolians (The Hung are legit asian)
+- Factions: Kurgan, Hung
+
 ### The Old Ways
 Essentially this amounts to honor, or as much as can be had in a place like Norsca. These are hard men, no doubt, but they do have a code of honor and try to follow the old ways as best they can. 
 
@@ -73,6 +108,7 @@ The Old Ways:
 - to speak and offer terms before a battle
 - to not hurt innocent women and children
 - to settle disputes with a Duel in the Circle (see below)
+
 
 ## Social Hierarchy
 1. **High King** - A king with power over many kingdoms, typically via vassalage.
