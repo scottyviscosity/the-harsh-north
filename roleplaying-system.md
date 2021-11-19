@@ -103,3 +103,5 @@ The standard 3.5 magic system mostly no longer applies and has been replaced by 
 - There is something inherently corrupt about magic use. In the game, this premise is enforced by some of the methods Scholars use to gain or boost Power Points: 
   - Rituals (possibly including orgies) or the good-old-fashioned ritual sacrifice, with a Feat called `Tortured Sacrifice` allowing even more points for a prolonged and painful death.
 - Rule of Obsession: A sorcerer is able to use magic because he is obsessed with power, and if that focus is diluted by any other interest in life (a romance, political allegiance, or taking levels outside the Scholar class) this creates an 'Obsession' against the sorcerer's focus, rated at 1 to 3 points, that reduces a sorcerer's Base Power Points accordingly. 
+
+_Read more about Magic Norsca in the Campaign Setting's [Magic Section](campaign-setting.md#magic-of-the-north)_
