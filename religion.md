@@ -1,5 +1,16 @@
 # Religion
 
+- [Religion](#religion)
+  - [Norscan Faith](#norscan-faith)
+  - [The Unending Winter](#the-unending-winter)
+- [Old Gods](#old-gods)
+  - [Olric](#olric)
+- [Chaos Gods](#chaos-gods)
+  - [Khorne](#khorne)
+  - [Tzeentch](#tzeentch)
+  - [Slaanesh](#slaanesh)
+  - [Nurgle](#nurgle)
+
 In addition to the notes collected here, take a look at the religion section from the [Campaign Setting Recommended Reading List](campaign-setting.md#norsca-campaign-setting).
 
 ## Norscan Faith
