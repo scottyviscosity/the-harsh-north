@@ -44,7 +44,7 @@ In general, I expect every player to be a Norscan of clan **Skaeling**. Under ex
 ### Culture
 Although everyone will be human, there are some variations in terms of clan culture based on where you were raised. It is not uncommon for a Northman to be born in one region but migrate to another, following a strong leader... or greater glory for himself.
 
-It's a good idea to review the [factions page](factions.md) if you're not familiar with the clans. I've also included some detail on the [differences in culture between the various groups](campaign-setting.md#culture). It's assumed you will belong to the Southern Clan culture since you will be Skaeling. However, if you find the other cultures intriguing, it wouldn't be unreasonable to have your character be a migrant from another region. Although, this could introduce some complications for your character depending on where you originate from.
+It's a good idea to review the [factions page](factions.md) if you're not familiar with the clans. I've also included some detail on the [differences in culture between the various groups](culture.md#regional-cultures). It's assumed you will belong to the Southern Clan culture since you will be Skaeling. However, if you find the other cultures intriguing, it wouldn't be unreasonable to have your character be a migrant from another region. Although, this could introduce some complications for your character depending on where you originate from.
 
 ## Feats/Flaws
 Players are permitted two flaws to help give their character depth. As usual for each flaw taken you may select an additional bonus feat. Flaws and bonus feats may only be selected at character creation.
