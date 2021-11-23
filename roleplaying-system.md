@@ -39,7 +39,7 @@ Every character must decide in combat whether to defend by Dodging or Parrying. 
 **Dodge (p.149):** `Dodge Bonus = 10 + DEX + dodge bonus (class + feats + abilities)`
 - Requires at least one free or friendly square to have enough space to move, otherwise take a -2 penalty.
 
-**Parry (p.149):** `Parry Bonus = 10 + STR + parry bonus (class + feats + abilities)`
+**Parry (p.149):** `Parry Bonus = 10 + STR + parry bonus (class + feats + abilities + shield)`
 - Must wield a weapon, shield, or object.
 - Ranged attacks cannot be parried.
 - -4 penalty for being unarmed, -1 penalty when not proficient with the weapon or using an improvised weapon.
