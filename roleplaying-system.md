@@ -36,10 +36,10 @@ Since most of us are familiar with D&D 3.5 and Pathfinder, I've provided a list 
 ## Defense
 Every character must decide in combat whether to defend by Dodging or Parrying. Most characters will have a preferred method of defence and it is often easiest to assume that said preferred method is in use each round unless the Player specifies otherwise.
 
-**Dodge (p.149):** `Dodge Bonus = base dodge bonus (class) + DEX + dodge bonuses`
+**Dodge (p.149):** `Dodge Bonus = 10 + DEX + dodge bonus (class + feats + abilities)`
 - Requires at least one free or friendly square to have enough space to move, otherwise take a -2 penalty.
 
-**Parry (p.149):** `Parry Bonus = base parry bonus (class) + STR + parry bonuses`
+**Parry (p.149):** `Parry Bonus = 10 + STR + parry bonus (class + feats + abilities)`
 - Must wield a weapon, shield, or object.
 - Ranged attacks cannot be parried.
 - -4 penalty for being unarmed, -1 penalty when not proficient with the weapon or using an improvised weapon.
