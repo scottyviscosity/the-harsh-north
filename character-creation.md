@@ -3,10 +3,11 @@
 ## Inspiration
 - Feel free to use [this pinterest board for character inspiration](https://pin.it/2efSdAR)
 - Play with [artflow.ai](https://artflow.ai/) for generating character avatars
-- Vikings TV Series
-- Last Kingdom TV Series
 - First Law trilogy - [The North](https://firstlaw.fandom.com/wiki/The_North)
 - Warhammer universe - [Norsca](https://warhammerfantasy.fandom.com/wiki/Norsca)
+- Vikings TV Series
+- Last Kingdom TV Series
+- Total War: Thrones of Brittania
 
 ## General
 - **Character sheet:** Use this [customized Conan d20 character sheet](resources/harsh-north-character-sheet.pdf).
