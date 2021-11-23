@@ -11,7 +11,7 @@
 
 ## General
 - **Character sheet:** Use this [customized Conan d20 character sheet](resources/harsh-north-character-sheet.pdf).
-- **Starting Level:** 3
+- **Starting Level:** 2
 - **Starting Stats:** You may assign the following starting values to any of your starting stats: 16, 14, 12, 12, 10, 8.
 - **Hitpoints:** All characters will gain maximum hitpoints at each level.
 - **Starting Money:** See `Page 97` of the Conan core rule book.
