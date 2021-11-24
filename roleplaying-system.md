@@ -68,7 +68,7 @@ Every character must decide in combat whether to defend by Dodging or Parrying. 
 - **Bypassing Armor:** **Ignore Armor DR** when `attack roll > Defense + DR`
     - Overrides the Armor Piercing rules.
 - Switching between finesse fighting and standard attacks is a free action and can be performed every round.
-- Ranged weapons cannot be used with Fineese fighting.
+- Ranged weapons cannot be used with Fineese fighting (except with the Ranged Finesse feat).
 
 **Combat Maneuvers (p.179):** A list of combat maneuvers are available to any character at no cost, provided that character meets the prerequisites. These maneuvers are in addition to any class abilities or feats your character by obtain.
 
