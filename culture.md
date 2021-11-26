@@ -17,7 +17,7 @@
 # Common Culture
 Loyalty is important but it cuts both ways; a crew looks out for their chief and their chief looks out for their crew. Individuals and crews sometimes change allegiance when they find a stronger leader or are wronged by their leader.
 
-In general, strength determines leadership. The leader of a tribe can be challenged for the right of leadership. This isn't always a fight to the death. In such cases, the vanquished generally owes a life debt and chooses to follow the victorious. The one exception to this has been the High King's seat, [which is hereditary](#line-of-kings).
+In general, strength determines leadership. The leader of a clan can be challenged for the right of leadership. This isn't always a fight to the death. In such cases, the vanquished generally owes a life debt and chooses to follow the victorious. The one exception to this has been the High King's seat, [which is hereditary](#line-of-kings).
 
 > _See Chapter 2 (p.38) and Chapter 4 (p.63) of the [Norsca Campaign Setting](https://drive.google.com/file/d/1-FAMZA2lqEmKI3TSAQgg8RCXqHaltvPZ/view?usp=sharing) for lots more detail._
 
@@ -40,7 +40,7 @@ The High King sits on `Hunlaf's Chair` from the fortress of **Heorot**. Heorot i
 
 ## Social Hierarchy
 1. **High King** - A king with power over many kingdoms, typically via vassalage.
-1. **King** - The leader of a particular kingdom or tribe.
+1. **King** - The leader of a particular kingdom or clan.
 1. **Seers** - Spiritual leaders, shamen, magi, magisters.
 1. **Jarl/Chief** - Lords or Nobility; a chieftain. 
 1. **Named Men** - Noted or famed warriors.

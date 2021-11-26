@@ -21,7 +21,7 @@ Download and read the [Norsca Campaign Setting](https://drive.google.com/file/d/
     - Death (p.70)
     - Insults (p.72)
     - Seasonal Events (p.80)
-- Chapter 5: Tribes (p.91 - 113)
+- Chapter 5: Clans (p.91 - 113)
 - Chapter 6: Religion (p.135)
     - Olric (p.141, 177)
     - Ancestor Worship (p.142)

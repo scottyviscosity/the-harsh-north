@@ -1,12 +1,12 @@
 # Factions
 
 - [Norsca](#norsca)
-  - [Southern Tribes](#southern-tribes)
+  - [Southern Clans](#southern-clans)
     - [Baersonlings](#baersonlings)
     - [Bjornling](#bjornling)
     - [Skaeling](#skaeling)
     - [Sarl](#sarl)
-  - [Northern Tribes](#northern-tribes)
+  - [Northern Clans](#northern-clans)
     - [Aesling](#aesling)
     - [Graeling](#graeling)
     - [Varg](#varg)
@@ -16,7 +16,7 @@
 - [Bretonnia](#bretonnia)
   - [Couronne](#couronne)
 - [Other Factions](#other-factions)
-  - [Kurgan Tribes of the Waste](#kurgan-tribes-of-the-waste)
+  - [Kurgan Clans of the Waste](#kurgan-clans-of-the-waste)
   - [Marienburg, Westerland (aka Wasteland)](#marienburg-westerland-aka-wasteland)
   - [Kislev](#kislev)
   - [Norse Dwarves](#norse-dwarves)
@@ -30,11 +30,11 @@
 
 > _The descriptions below are summaries of what is available in Chapter 5 (p.91-113) of the [Norsca Campaign Setting](https://drive.google.com/file/d/1-FAMZA2lqEmKI3TSAQgg8RCXqHaltvPZ/view?usp=sharing). For even more detail, check out that chapter._
 
-## Southern Tribes
-The southern tribes are somewhat milder than their savage brethren to the north. While these barbarians raid and plunder like all the rest, it is from these tribes that new efforts for peaceful communications originate. The southern tribes include the Baernsonlings, Bjornlings, Skaelings, and the Sarls.
+## Southern Clans
+The southern clans are somewhat milder than their savage brethren to the north. While these barbarians raid and plunder like all the rest, it is from these clans that new efforts for peaceful communications originate. The southern clans include the Baernsonlings, Bjornlings, Skaelings, and the Sarls.
 
 
-The southern tribes live in the following ancient norse-named areas:
+The southern clans live in the following ancient norse-named areas:
 - **Taaketskog (_Fogforest_)**, includes the lands of Bjornlings and Skaelings. Taaketskog is the area situated in the southwestern part of Norsca and is mostly forest hills and mountains. It ends roughly along the River Halkild, but is mostly considered Bjornling lands.
 - **Soerligslette (_Southernplain_)**, includes the lands of Skaelings and Sarls. Soerligslette lies on the southern coast of Norsca on the shores of Sea of Claws. It has large valleys with dark forests and long rivers. It ends in the Trollheim Mountains in the middle of Sarl lands. Soerligslette is generally considered Skaeling lands.
 - **Fjellsende (_Mountainsend_)**, includes the lands of Sarls and Baernsonlings. It is the northern part of Troll Country; the mountain regions beyond River Groene (River Dypvann) and the mountain regions of The Goromadny Mountains. Usually Sarls and Baernsonlings are considered to be Fjellsende people, but Aesling lands have also expanded through The Shadow Pass along the River Groene (River Dypvann). The middle of Fjellsende (Troll Country) is actually controlled by Kislev.
@@ -42,16 +42,16 @@ The southern tribes live in the following ancient norse-named areas:
 ### Baersonlings
 <img src="https://static.wikia.nocookie.net/totalwarhammer_gamepedia/images/a/a3/Wh_main_nor_baersonling_256.png/revision/latest/scale-to-width-down/256?cb=20160601173240" width="100"/>
 
-The Baersonlings or Baerson, are a Norscan Tribe centred on the village of Vinnskor, noted for hair and beards of pale gold. They are rivals of the Aeslings. Those found guilty of cowardice, abandoning their kinsmen in the midst of battle, with no scars to be found on their bodies, are stripped naked, tied to the village gallows, and doused with water. By the next day, such criminals are frozen so solid that not even the ravens can make a meal of them.
+The Baersonlings or Baerson, are a Norscan Clan centred on the village of Vinnskor, noted for hair and beards of pale gold. They are rivals of the Aeslings. Those found guilty of cowardice, abandoning their kinsmen in the midst of battle, with no scars to be found on their bodies, are stripped naked, tied to the village gallows, and doused with water. By the next day, such criminals are frozen so solid that not even the ravens can make a meal of them.
 
-Baernsonlings live in the harsh mountain range of the Goromadny and also partly in Troll Country. They fight constantly with marauding Aeslings and invading Kislev forces. Relations are sour with the Dwarfs and the Kurgans, adding yet more bloodshed. The mountain ranges of the Goromadny and the coastline of southern Frozen Sea are full of small Baernsonling villages, but still half of the clans (or small tribes) live as nomads, moving in the Troll Country and even as far as Kul lands. Like other Norscans, Baernsonlings raid the southern countries. They do not have large fleet of ships and those they have can only be used during the summer time, since the Frozen Sea usually freezes totally during the winter. Small Baernsonling raiding parties move easily through the lands of Kislev and sometimes make their way all the way to the northern reaches of the Empire.
+Baernsonlings live in the harsh mountain range of the Goromadny and also partly in Troll Country. They fight constantly with marauding Aeslings and invading Kislev forces. Relations are sour with the Dwarfs and the Kurgans, adding yet more bloodshed. The mountain ranges of the Goromadny and the coastline of southern Frozen Sea are full of small Baernsonling villages, but still half of the clans (or small clans) live as nomads, moving in the Troll Country and even as far as Kul lands. Like other Norscans, Baernsonlings raid the southern countries. They do not have large fleet of ships and those they have can only be used during the summer time, since the Frozen Sea usually freezes totally during the winter. Small Baernsonling raiding parties move easily through the lands of Kislev and sometimes make their way all the way to the northern reaches of the Empire.
 
-Baernsonlings are famous for their werekin or Ulfwerenar. Ulfwerenar are most common among Baersonlings and rarely appear in other Norscan tribes. To a Baernsonling the mark of the Bear, Ulfwerenar, is one of the greatest blessings of the gods. Most worship the Bear God Ursun (or The Great Bear) and those bearing his mark have can shapechange at least partially. But those with the ability to truly transform bear the mark of Lordship and are called Bearstruck. Other names for Ulfwerenar are Werekin, Werefolk, Shapestrong, or Shapestruck.
+Baernsonlings are famous for their werekin or Ulfwerenar. Ulfwerenar are most common among Baersonlings and rarely appear in other Norscan clans. To a Baernsonling the mark of the Bear, Ulfwerenar, is one of the greatest blessings of the gods. Most worship the Bear God Ursun (or The Great Bear) and those bearing his mark have can shapechange at least partially. But those with the ability to truly transform bear the mark of Lordship and are called Bearstruck. Other names for Ulfwerenar are Werekin, Werefolk, Shapestrong, or Shapestruck.
 
 - **Capital:** Urslo
 - **Main Settlements:** Brenneholm, Fjellby, Vinteerholm
-- **Famous Clans & Minor Tribes:**
-  - Bearmen or Ursfjordings (fierce enemies of the Wolf tribe)
+- **Famous Clans & Minor Clans:**
+  - Bearmen or Ursfjordings (fierce enemies of the Wolf clan)
   - Brennuns (Brenneholm)
   - Ten Bear or Ti Urs
   - the Wolf (fierce enemies of the Ursfjordings)
@@ -60,7 +60,7 @@ Baernsonlings are famous for their werekin or Ulfwerenar. Ulfwerenar are most co
 ### Bjornling
 <img src="https://static.wikia.nocookie.net/totalwarhammer_gamepedia/images/3/30/Wh_main_nor_bjornling_256.png/revision/latest/scale-to-width-down/256?cb=20160601173246" width="100"/>
 
-Bjornlings are the most cosmopolitan tribe in Norsca and are least impacted by the Northern Wastes due to thier relative distance. They are brave sailers and traders who have connections to all the lands in Old World, especially thanks to the access to the Mighty Reik river granted to them via their somewhat reluctant trade partners in Marienburg. Some famous explorers have even risen from among their tribe.
+Bjornlings are the most cosmopolitan clan in Norsca and are least impacted by the Northern Wastes due to thier relative distance. They are brave sailers and traders who have connections to all the lands in Old World, especially thanks to the access to the Mighty Reik river granted to them via their somewhat reluctant trade partners in Marienburg. Some famous explorers have even risen from among their clan.
 
 Even though Bjornlings are traders and explorers, this does nothing to deminish their Norscan roots as reavers and jarls have been known to turn to piracy when it suits them. Powerful leaders have been known to rally jarls to join huge raids to Albion, Bretonnia, the Empire, and even against the distant Elves in Ulthuan. They shun worship of the Dark Gods of their Northern counterparts in favor of the Old Gods.
 
@@ -70,7 +70,7 @@ Bjornlings are fierce rivals with their northern neighbors; the Graelings. It is
 
 - **Capital:** Frost
 - **Main Settlements:** Heimseter, Iskvard, Kalevanvik, Lade, Stavgard, Swerborg (Gottborg), Trollbo
-- **Famous Clans & Minor Tribes:**
+- **Famous Clans & Minor Clans:**
   - Kalevan (Kalevanvik)
   - Swer (Swerborg)
   - Thunderbear (Stavgard)
@@ -80,13 +80,13 @@ Bjornlings are fierce rivals with their northern neighbors; the Graelings. It is
 ### Skaeling
 <img src="https://static.wikia.nocookie.net/totalwarhammer_gamepedia/images/b/bd/Wh_main_nor_skaeling_256.png/revision/latest/scale-to-width-down/256?cb=20160601173309" width="100"/>
 
-As one of the southern tribes, Skaelings are more cosmopolitan than their Northern counterparts. They are explorers and trade very much like their neighbors, the Bjornlings. Skaelings are the most powerful Norscan tribe in terms of wealth, commerce, size and by fleet. Due to their relative strength and prosperity, the High King of Norsca has often risen among them throughout Norscan history; usually sitting on the throne of mighty Olricstaad.
+As one of the southern clans, Skaelings are more cosmopolitan than their Northern counterparts. They are explorers and trade very much like their neighbors, the Bjornlings. Skaelings are the most powerful Norscan clan in terms of wealth, commerce, size and by fleet. Due to their relative strength and prosperity, the High King of Norsca has often risen among them throughout Norscan history; usually sitting on the throne of mighty Olricstaad.
 
-Skaelings are raiders at their heart and take their wealth from those they deem as weak. They have built their kingdom on a dark reputation, fear, and steel. Uneasy trade relations exist with all surrounding factions on the Sea of Claws, with the negotiations always on the brink of drawn blades. Skaelings are not usually influenced by the Dark Gods, instead favoring either the Old Gods, or none at all. In fact, many Skaeling tribesmen seem to worship strength itself and their ability to dominate others. Seafaring is in Skaeling blood; raiding being a natural extension of their lives. Their traditional targets have been Bretonnia and the Empire.
+Skaelings are raiders at their heart and take their wealth from those they deem as weak. They have built their kingdom on a dark reputation, fear, and steel. Uneasy trade relations exist with all surrounding factions on the Sea of Claws, with the negotiations always on the brink of drawn blades. Skaelings are not usually influenced by the Dark Gods, instead favoring either the Old Gods, or none at all. In fact, many Skaeling clansmen seem to worship strength itself and their ability to dominate others. Seafaring is in Skaeling blood; raiding being a natural extension of their lives. Their traditional targets have been Bretonnia and the Empire.
 
 - **Capital:** Olricstaad (Heorot)
 - **Main Settlements:** Aarvik, Birka, Kaugang, Skorlm
-- **Famous Clans & Minor Tribes:**
+- **Famous Clans & Minor Clans:**
   - Haraldursson (Turui)
   - Hinriksen
   - Donnersson (Ulfsland Island)
@@ -98,13 +98,13 @@ Skaelings are raiders at their heart and take their wealth from those they deem 
 
 Sarls are an extremely barbaric, rugged, and harsh people. They primarily inhabit the rough ranges of Trollheim Mountains, but also live on the coastline near the Gulf of the Maelstrom. They are fearless seamen and whalers who dare to hunt the greatest of sea monsters.
 
-They are surrounded by many harsh neighbors including roaming warbands from the North, Kislev tribes to the East, and the many monstrous denizens of Troll Country. This fact has come to define them as a people and has shaped their personalities. The old gods and their traditions still hold sway here. Over the years, Sarls have kept trade open with their neighbors, the Norse Dwarfs. Dwarfs remain mistrustful of these barbarians, but out of necessity they still travel down the River Groene (Dypvann) for trade.
+They are surrounded by many harsh neighbors including roaming warbands from the North, Kislev clans to the East, and the many monstrous denizens of Troll Country. This fact has come to define them as a people and has shaped their personalities. The old gods and their traditions still hold sway here. Over the years, Sarls have kept trade open with their neighbors, the Norse Dwarfs. Dwarfs remain mistrustful of these barbarians, but out of necessity they still travel down the River Groene (Dypvann) for trade.
 
-Northern Sarl minor tribes, that live high in the mountains between the Trollheim range and the northern pass (Gorge of the Damned), are worshippers of the Dark God Nurgle. They live mostly in the caves and are shunned (and also feared) by other Sarls. Many Nurgle Champions have risen amongst them. The most notable of these Nurgle worshipers is the Wolf Brothers tribe, commonly referred to as "Decayed Ones".
+Northern Sarl minor clans, that live high in the mountains between the Trollheim range and the northern pass (Gorge of the Damned), are worshippers of the Dark God Nurgle. They live mostly in the caves and are shunned (and also feared) by other Sarls. Many Nurgle Champions have risen amongst them. The most notable of these Nurgle worshipers is the Wolf Brothers clan, commonly referred to as "Decayed Ones".
 
 - **Capital:** Suderholm
 - **Main Settlements:** Gotland, Stromstaad, Thorshafn
-- **Famous Clans & Minor Tribes:** 
+- **Famous Clans & Minor Clans:** 
   - Doombringer
   - Fremen (Graennae)
   - Stormfang (Stromstaad)
@@ -112,35 +112,35 @@ Northern Sarl minor tribes, that live high in the mountains between the Trollhei
   - The Wolf Brothers or "the Decayed Ones"
 - **Heroes:** Birgit Grylysa, Ekil Bloodheart, Freinar Kaosjeger, Keorl Thunderhand, Sigismund, Vipunen
 
-## Northern Tribes
-Standing in the shadow of Northern Wastes, Northern Norsca is a land touched by Chaos. Whenever the Roiling Eye widens, the tongues of darkness lick the dizzying peaks of this frozen land, influencing all and everything it touches. As a result, those tribes living on the coast of the Frozen Sea are more deeply affected by Chaos and develop more mutations. In addition, they are quite a bit more savage since they regularly come into conflict with the Kurgan tribes of the Wastes. They are a brutal and bloodthirsty lot; killing for the sake of killing.
+## Northern Clans
+Standing in the shadow of Northern Wastes, Northern Norsca is a land touched by Chaos. Whenever the Roiling Eye widens, the tongues of darkness lick the dizzying peaks of this frozen land, influencing all and everything it touches. As a result, those clans living on the coast of the Frozen Sea are more deeply affected by Chaos and develop more mutations. In addition, they are quite a bit more savage since they regularly come into conflict with the Kurgan clans of the Wastes. They are a brutal and bloodthirsty lot; killing for the sake of killing.
 
-Originally the Northern parts of Norsca that lie closest to the coastline of the Frozen Sea were left alone. Northern Norsca has an even harsher climate, allowing only hunting parties to visited these areas. But eventually nomad tribes migrated to these parts and over the centuries became accustomed to the harsh region. They encountered and mixed with the Kurgan, becoming a little darker in appearance than other Norse. These northern parts were called simply Nordlig by other Norse. The northern tribes include Aeslings, Graelings and Vargs.
+Originally the Northern parts of Norsca that lie closest to the coastline of the Frozen Sea were left alone. Northern Norsca has an even harsher climate, allowing only hunting parties to visited these areas. But eventually nomad clans migrated to these parts and over the centuries became accustomed to the harsh region. They encountered and mixed with the Kurgan, becoming a little darker in appearance than other Norse. These northern parts were called simply Nordlig by other Norse. The northern clans include Aeslings, Graelings and Vargs.
 
 
-The northern tribes live in the following ancient Norse-named areas:
-- **Vestligkyst (_Westcoast_)**, which includes northern lands of Bjornlings and Graeling lands. Vestligkyst is primarily considered to be Graeling lands. It includes the western coastline of Norsca and a little of the northern coastline. Although furthest from the Northern Wastes, this area is still influenced the Wild Tribes that live there and worship several strange Dark Gods.
-- **Nordlig (_North_)**, this includes lands of Aeslings and Vargs. When nomad tribes started to move to northern parts of Norsca, Norsii people started to call these areas simply Nordlig. This region is essentially the remainder of Norsca beyond the southern coasts, Troll Country, and the Goromadny mountains. Most norsii feared these areas because they were more close to feared Umbra. This caused more mutations and lands were filled with Chaos monsters. Also there were problems with Kurgan and Hung tribes from the Northern Wastes. Yet Aeslings and Vargs survived and became feared tribes. Also Norse Dwarfs live in the Nordlig by the Norse.
+The northern clans live in the following ancient Norse-named areas:
+- **Vestligkyst (_Westcoast_)**, which includes northern lands of Bjornlings and Graeling lands. Vestligkyst is primarily considered to be Graeling lands. It includes the western coastline of Norsca and a little of the northern coastline. Although furthest from the Northern Wastes, this area is still influenced the Wild Clans that live there and worship several strange Dark Gods.
+- **Nordlig (_North_)**, this includes lands of Aeslings and Vargs. When nomad clans started to move to northern parts of Norsca, Norsii people started to call these areas simply Nordlig. This region is essentially the remainder of Norsca beyond the southern coasts, Troll Country, and the Goromadny mountains. Most norsii feared these areas because they were more close to feared Umbra. This caused more mutations and lands were filled with Chaos monsters. Also there were problems with Kurgan and Hung clans from the Northern Wastes. Yet Aeslings and Vargs survived and became feared clans. Also Norse Dwarfs live in the Nordlig by the Norse.
 
 
 ### Aesling
 <img src="https://static.wikia.nocookie.net/totalwarhammer_gamepedia/images/3/39/Wh_main_nor_aesling_256.png/revision/latest/scale-to-width-down/256?cb=20160601173234" width="100"/>
 
-The Aeslings, or Aes, are a Norscan Tribe whose southernmost village is Skraevold, and whose territory borders the Frozen Sea. They are mortal enemies of the Baersonlings, whom they have stolen cattle from as well as having slain freeholders and thralls. The hair of the tribesmen is noted as being dyed dark crimson with the blood of their enemies, with the runes of the Blood Lord etched into each cheek and forehead of their warriors' hideously scarred faces. Indeed, Aesling warriors wear heavier armour than those of the Baersonlings, and their arms are covered in bands of steel and bronze. Most of their belts swing with the severed heads of those they kill, until they return to Skraevold to offer them up as tribute to Khorne.
+The Aeslings, or Aes, are a Norscan Clan whose southernmost village is Skraevold, and whose territory borders the Frozen Sea. They are mortal enemies of the Baersonlings, whom they have stolen cattle from as well as having slain freeholders and thralls. The hair of the clansmen is noted as being dyed dark crimson with the blood of their enemies, with the runes of the Blood Lord etched into each cheek and forehead of their warriors' hideously scarred faces. Indeed, Aesling warriors wear heavier armour than those of the Baersonlings, and their arms are covered in bands of steel and bronze. Most of their belts swing with the severed heads of those they kill, until they return to Skraevold to offer them up as tribute to Khorne.
 
 Aeslings live in the lands between high mountains inhabited by the Norse Dwarfs and the valleys of Shadow Pass south to the River Groene. This location, close to the Northern Wastes, has made them hard as iron. They are fearless warriors trained since the birth in society that only respects the strongest.
 
-Aeslings are in regular contact with tribes of the Northern Wastes, especially with the Kurgan. During the centuries Norse and Kurgan blood has mixed, causing Aeslings to have a darker complexion than average Norscans. 
+Aeslings are in regular contact with clans of the Northern Wastes, especially with the Kurgan. During the centuries Norse and Kurgan blood has mixed, causing Aeslings to have a darker complexion than average Norscans. 
 
 During the summer time, when the Frozen Sea is open, Aeslings trade by boat. During the harsh winters, when the Frozen Sea is frozen, they walk through the ice for raids in the North.
 
 Aeslings have a deep hatred for the Dwarfs. The war between these races has raged since the two met ages ago. Both sides harass each other side from time to time, but it should be no surprise that the Aeslings are typically the aggressors.
 
-It's no surprise that Aeslings worship Dark Gods more than other tribes. Though they worship all the Dark Gods, Khorne, the Blood God, is more revered.
+It's no surprise that Aeslings worship Dark Gods more than other clans. Though they worship all the Dark Gods, Khorne, the Blood God, is more revered.
 
 - **Capital:** Morkestaad
 - **Main Settlements:** Frossborg, Ru'gard, Snaegrvold, Svartblodgard
-- **Famous Clans & Minor Tribes:**
+- **Famous Clans & Minor Clans:**
   - Snaegr (Snaegrvold)
   - Skrae (Skraevold)
 - **Heroes:** Ekil Bloodheart, Hrafn Untam, Morkar the Uniter, Valnir the Reaper
@@ -148,7 +148,7 @@ It's no surprise that Aeslings worship Dark Gods more than other tribes. Though 
 ### Graeling
 <img src="https://static.wikia.nocookie.net/totalwarhammer_gamepedia/images/f/f9/Wh_main_nor_graeling_256.png/revision/latest/scale-to-width-down/256?cb=2016" width="100"/>
 
-Graelings, like other Northern Tribes, are aggressive, bloodthirsty and serve the Dark Gods. Graelings were the first tribes to settle the northern areas of Norsca. They live on the western coast of Norsca in an area covered with deep forests and mountains.
+Graelings, like other Northern Clans, are aggressive, bloodthirsty and serve the Dark Gods. Graelings were the first clans to settle the northern areas of Norsca. They live on the western coast of Norsca in an area covered with deep forests and mountains.
 
 Graelings are famous and feared raiders. Their ships sail to far away lands to pillage and take slaves. They often organize joint raids with the Aeslings and Vargs, since none of them generally have large fleets of their own.
 
@@ -156,24 +156,24 @@ Graelings are fierce rivals of their southern neighbors, the Bjornlings. No hono
 
 - **Capital:** Bjarkoy
 - **Main Settlements:** Finnsvik, Rost, Steinvik, Tiurivik
-- **Famous Clans & Minor Tribes:**
+- **Famous Clans & Minor Clans:**
   - Finns (Finnsvik)
   - Iceblade (Tiurivik)
-  - Tribe of the Hound (Fjirgard)
+  - Clan of the Hound (Fjirgard)
 - **Heroes:** Scyla Anfinngrim, Sigismund, Styr Windrunner
 
 ### Varg
 <img src="https://static.wikia.nocookie.net/totalwarhammer_gamepedia/images/c/c2/Wh_main_nor_varg_256.png/revision/latest/scale-to-width-down/256?cb=20160601173315" width="100"/>
 
-Vargs were originally nomad tribes that wandered in the most northern parts of Norsca. They settled in the open lands and tundra from near shores of the Sea of Chaos; an area called the Norscveg Plain. This is very rough land with extreme weather, especially during long, dark and very cold winter months. Along with their herds of Reindeer, these plains team with Beastmen, Giants, Warped Monsters and mighty Mammoths. 
+Vargs were originally nomad clans that wandered in the most northern parts of Norsca. They settled in the open lands and tundra from near shores of the Sea of Chaos; an area called the Norscveg Plain. This is very rough land with extreme weather, especially during long, dark and very cold winter months. Along with their herds of Reindeer, these plains team with Beastmen, Giants, Warped Monsters and mighty Mammoths. 
 
-Vargs fought hard for these lands for many generations. In time Vargs established a few strongholds, fortified settlements called "borgs". Even now many clans and smaller tribes live nomadic life in the vast northern tundra.
+Vargs fought hard for these lands for many generations. In time Vargs established a few strongholds, fortified settlements called "borgs". Even now many clans and smaller clans live nomadic life in the vast northern tundra.
 
-Vargs have old grudges against the Kurgan tribes on the other side of the Kraken Sea (most northern part of Sea of Chaos). During winter when the sea is frozen and can be traversed en masse, both sides mount great raids in an effort to get the upper hand in the annual struggle. Many such battles have taken place on the Icy fields of Drergen Mort, which is situated on the top of the Norsca.
+Vargs have old grudges against the Kurgan clans on the other side of the Kraken Sea (most northern part of Sea of Chaos). During winter when the sea is frozen and can be traversed en masse, both sides mount great raids in an effort to get the upper hand in the annual struggle. Many such battles have taken place on the Icy fields of Drergen Mort, which is situated on the top of the Norsca.
 
 - **Capital:** Novgoborg
 - **Main Settlements:** Aldeigborg, Arothborg, Galdariborg
-- **Famous Clans & Minor Tribes:** 
+- **Famous Clans & Minor Clans:** 
   - Sortsvinaer (Novgoborg)
 - **Heroes:** Morkar the Uniter, Sigismund, Styrkaar of the Sortsvinaer
 
@@ -193,7 +193,7 @@ The Grand Barony of Nordland is a major and late-founding Imperial Province that
 
 The Grand Principality of Ostland is a major and founding Imperial Province that lies at the very northern border of the Empire of Man. Ostland is a realm of damp, creeping mists and shifting shadows, and is covered almost entirely by the dark canopy of the Forest of Shadows. The people of this land have learned to live out a rugged life among the ancient trees, clearing patches of land for their farms and settlements, and keeping a watchful eye on the dark depths of the forest.
 
-Lying at the very forefront of the Empire's northern frontiers, the province of Ostland is at a state of near-constant war. Warbands invading from the north are simply a fact of life for the Ostlanders, and such harsh living as bred these people into a war-like society like their brethrens of Nordland and Middenland. Being the descendants of the ancient Udoses tribe, the Ostland people have since earned themselves a reputation amongst the Imperial provinces as a stubborn yet patriotic citizenry, who have fought, bled, and endured countless invasions since even before the founding of the very Empire itself.
+Lying at the very forefront of the Empire's northern frontiers, the province of Ostland is at a state of near-constant war. Warbands invading from the north are simply a fact of life for the Ostlanders, and such harsh living as bred these people into a war-like society like their brethrens of Nordland and Middenland. Being the descendants of the ancient Udoses clan, the Ostland people have since earned themselves a reputation amongst the Imperial provinces as a stubborn yet patriotic citizenry, who have fought, bled, and endured countless invasions since even before the founding of the very Empire itself.
 
 # Bretonnia
 An over generalization of this culture would be French. If you're interested in learning more about Bretonnia, [read more here](https://whfb.lexicanum.com/wiki/Bretonnia).
@@ -208,7 +208,7 @@ From high nobles to lowly peasants, almost everyone in Couronne has ridden a hor
 
 # Other Factions
 
-## Kurgan Tribes of the Waste
+## Kurgan Clans of the Waste
 The Kurgan are a people steeped in mystery and much as the Norscans, many are the myths and legends that have arisen among Old Worlders regarding them. Those who have survived the brutality of their raids describe them as a race of daemons clothed in the flesh of men, or as mutants more akin to the raging Beastkin than humans, due to their barbarity and vast physical strength. Such a reputation, though not unfounded, is false, for the Kurgan are indeed Men, and though they may far outstrip the peoples of the South in might and savagery, the differences between them and Old Worlders are miniscule in comparison to those between Humanity and the Elder Races. For the Kurgan, as much as they are warriors, are herdsmen and nomads of the great Endless Steppes, who worship the primeval forces of Chaos as embodiments of the world itself, who serve to keep all in a state of Change and Becoming. Therefore, to the Kurgan, Chaos is no corruptive, maleficient entity, and mutation is no malady of the flesh, but rather the manifestation of their gods' Divine Will in their own mortal flesh.
 
 ## Marienburg, Westerland (aka Wasteland)
@@ -250,4 +250,4 @@ The largest and wealthiest of the Norse Dwarfholds, Kraka Drak sits on the large
 
 Kraka Drak is the seat of the Great King Thorgard Cromson and Queen Sifna Thorindottir of the Dordegruden clan. Every year on 33 Fornskrak (Vorgeheim, according to the Imperial calendar), the Great King presides over the Feast of Grungni (Guzulmor Grungni) and the Althing of the Ancestors (Throngim Gromthi). Dwarfs come to the Althing from all across Norsca to discuss matters of importance and settle disputes. The Althing is very important to the Norse Dwarfs, as it allows them a forum in which to discuss any threat from the Norse to their hearth and home.
 
-The first human tribes arrived in the land that was to become Norsca at about the same time as Karak Ungor and Karak Varn fell to the greenskins, crossing the Sea of Claws in boats that were barely seaworthy. The historical records made brief mention of their arrival, noting that the newcomers were few in number, and relied upon tools and weapons made of stone and wood. The Dwarfs avoided any contact until they were certain that these humans were not in the service of Chaos. However, contact was made, and the two races grew close. Their cultures influenced each other; art styles became similar, and they found they shared a clannish, independent nature and a love for drinking, hand-to-hand fighting and very long poems.
+The first human clans arrived in the land that was to become Norsca at about the same time as Karak Ungor and Karak Varn fell to the greenskins, crossing the Sea of Claws in boats that were barely seaworthy. The historical records made brief mention of their arrival, noting that the newcomers were few in number, and relied upon tools and weapons made of stone and wood. The Dwarfs avoided any contact until they were certain that these humans were not in the service of Chaos. However, contact was made, and the two races grew close. Their cultures influenced each other; art styles became similar, and they found they shared a clannish, independent nature and a love for drinking, hand-to-hand fighting and very long poems.

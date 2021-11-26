@@ -32,7 +32,7 @@ The following character classes are permitted with minor revisions for flavor:
 ## Races
 Since we'll be playing in Norsca, the only playable race will be human. We'll keep it simple and use the standard Human race from pathfinder. 
 
-In general, I expect every player to be a Norscan of clan **Skaeling**. Under extremely special circumstances I may allow you to be from a neighboring human region (say you started out as an Impirial who is a captured slave), but the goal is to have every player act as a true Norscan and be working for the same kingdom or tribe.
+In general, I expect every player to be a Norscan of clan **Skaeling**. Under extremely special circumstances I may allow you to be from a neighboring human region (say you started out as an Impirial who is a captured slave), but the goal is to have every player act as a true Norscan and be working for the same kingdom or clan.
 
 **Standard Racial Traits**
 - **Ability Score Modifiers:** Human characters gain a +2 racial bonus to one ability score of their choice at creation to represent their varied nature.
@@ -76,6 +76,6 @@ See `Page 104` of the Conan core rule book for initial details.
 | **An average Jarl; Lords or Nobility**                                               | 26-35            |
 | **An average Seer or scholar; Spiritual leaders, shamen, magi, magisters**           | 30-40            |
 | A gifted assassin                                                                    | 36-55            |
-| **An average King; a leader of a kingdom or tribe**                                  | 56-75            |
+| **An average King; a leader of a kingdom or clan**                                  | 56-75            |
 | **The High King; a king of kings**                                                   | 76-90            |
 | An evil wizard who has returned from the dead to topple kingdoms and slay the living | 90+              |

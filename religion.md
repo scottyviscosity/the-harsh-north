@@ -16,7 +16,7 @@ In addition to the notes collected here, take a look at the religion section fro
 ## Norscan Faith
 Norscan faith is an extremely complex affair. Their pantheon is called Raenir, and is comprised of numerous divine aspects that are far too many to list. Such is the complicated dynamic nature of the Raenir pantheon that it has confused and caused many a headache for southern theology experts.
 
-Each tribe/clan worship their own deities that varies greatly with each clan. Norscan worship can be divided into four parts, with the bottom representing lowest rank (Ancestor Spirits):
+Each clan worships their own deities that varies greatly with each clan. Norscan worship can be divided into four parts, with the bottom representing lowest rank (Ancestor Spirits):
 - Worship of Ancestor Spirits (Said to watch over them from Raenisheim, their spirit world)
 - Worship of Dead Heroes
 - Worship of Daemons
@@ -29,10 +29,10 @@ In addition to this, their pantheon often reflects four central themes:
 - Hope
 
 Raenir (Norscan pantheon) can be further broken into two parts for the gods:
-- Æsafólk: These are the non-chaos gods, and are heavily worshiped within the southern tribes.
+- Æsafólk: These are the non-chaos gods, and are heavily worshiped within the southern clans.
 - Vanenes: These are the Chaos Gods, influenced all over Norsca but primarily in the north.
 
-Great heroes are also worshiped, but each tribe will have their own hero. A clan will not worship a hero that belongs to another rival clan for example. Heroes are worshiped in lesser detail; there is no special holy days or symbols. Instead they are remembered during other festivals devoted to their reigning god and a small prayer or a sacrifice is often enough to give these ‘Venerated Souls’ their blessing.
+Great heroes are also worshiped, but each clan will have their own hero. A clan will not worship a hero that belongs to another rival clan for example. Heroes are worshiped in lesser detail; there is no special holy days or symbols. Instead they are remembered during other festivals devoted to their reigning god and a small prayer or a sacrifice is often enough to give these ‘Venerated Souls’ their blessing.
 
 ## The Unending Winter
 Norscan belief states that the ending of the world will happen when Olric will rally all Einherjar (ancient name of the Norscans) to join the Raenir in the last Great War against Chaos. Of course, worshipers of the Chaos Gods do not believe in this part. To them this is the day their masters will finally devour the world.
@@ -82,7 +82,7 @@ Khorne, also known as Kharneth, the Blood God, the Lord of Murder and the Hunter
 
 On one side of his nature, Khorne is the embodiment of honour and courage, and a man that has put his faith in Khorne is just as likely to be an honourable warrior as he is a blood-crazed killer, and oftentimes he will be both at the same time. The Warriors of Khorne, though gore-maddened berserkers all, take no artful approach to killing, for such indulgent displays serve only to empower Slaanesh, the honourless adversary of Khorne amongst the company of the gods. It is also due to the warrior-code of the devotees of Khorne, who believe it is the solemn right of every warrior to die an honourable death in battle with sword and axe in hand. Khorne is the second eldest and perhaps the mightiest of the Gods of Chaos.
 
-Khorne is known by a thousand, thousand names in the North. He is known as Kharneth, Akhar, Kjorn, Khorgar, the Axefather, the Bloodfather, the Bloodwolf and the Wolf-Father, and yet other uncounted multitudes of titles and aspects. The Blood God is worshipped by almost every tribe in the North, for the Northmen are warrior-peoples who exalt in the contest of arms. Particularly the Norscans, who most eagerly of all embrace Khorne's call to eternal warfare.
+Khorne is known by a thousand, thousand names in the North. He is known as Kharneth, Akhar, Kjorn, Khorgar, the Axefather, the Bloodfather, the Bloodwolf and the Wolf-Father, and yet other uncounted multitudes of titles and aspects. The Blood God is worshipped by almost every clan in the North, for the Northmen are warrior-peoples who exalt in the contest of arms. Particularly the Norscans, who most eagerly of all embrace Khorne's call to eternal warfare.
 
 _[Read More](https://warhammerfantasy.fandom.com/wiki/Khorne)_
 
