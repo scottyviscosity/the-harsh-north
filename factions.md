@@ -28,7 +28,7 @@
 
 > _Refer to the [campaign setting page](campaign-setting.md#maps) for more maps._
 
-> _The descriptions below are summaries of what is available in Chapter 5 (p.91-113) of the [Norsca Campaign Setting](https://drive.google.com/file/d/1-FAMZA2lqEmKI3TSAQgg8RCXqHaltvPZ/view?usp=sharing). For even more, check out that chapter._
+> _The descriptions below are summaries of what is available in Chapter 5 (p.91-113) of the [Norsca Campaign Setting](https://drive.google.com/file/d/1-FAMZA2lqEmKI3TSAQgg8RCXqHaltvPZ/view?usp=sharing). For even more detail, check out that chapter._
 
 ## Southern Tribes
 The southern tribes are somewhat milder than their savage brethren to the north. While these barbarians raid and plunder like all the rest, it is from these tribes that new efforts for peaceful communications originate. The southern tribes include the Baernsonlings, Bjornlings, Skaelings, and the Sarls.
@@ -138,7 +138,7 @@ Aeslings have a deep hatred for the Dwarfs. The war between these races has rage
 
 It's no surprise that Aeslings worship Dark Gods more than other tribes. Though they worship all the Dark Gods, Khorne, the Blood God, is more revered.
 
-- **Capital: Morkestaad**
+- **Capital:** Morkestaad
 - **Main Settlements:** Frossborg, Ru'gard, Snaegrvold, Svartblodgard
 - **Famous Clans & Minor Tribes:**
   - Snaegr (Snaegrvold)
