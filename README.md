@@ -32,3 +32,5 @@ See the [character creation page](character-creation.md) for more details.
 ## Discord Server
 See the [discord page](discord.md) for how to participate to gameplay via Discord.
 
+## Harpy.gg
+See the [harpy page](harpy.md) for how to participate in combat encounters on _harpy.gg_.
