@@ -50,8 +50,8 @@ See the [religion page](religion.md) for details on the faith and the gods in No
 
 ## Political Hierarchy
 1. **Norsca** - The region where all Norscan people live; not a single nation.
-1. **Clans** - Collections of tribes lead by a single chief or a king.
-1. **Tribes** - Groups of communities and peoples lead by a single strong war leader.
+1. **Clans** - Collections of minor clans or tribes lead by a single chief or a king.
+1. **Minor Clan / Tribes** - Groups of communities and peoples lead by a single strong war leader.
 
 ### Political Climate
 
