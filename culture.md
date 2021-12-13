@@ -40,9 +40,9 @@ The High King sits on `Hunlaf's Chair` from the fortress of **Olricstaad**. Olri
 
 ## Social Hierarchy
 1. **High King** - A king with power over many kingdoms, typically via vassalage.
-1. **King** - The leader of a particular kingdom or clan.
+1. **King** - The leader of a major clan or confederation of minor clans. Not all clans have a king and may instead be ruled by a collection of their strongest cheifs.
 1. **Seers** - Spiritual leaders, shamen, magi, magisters.
-1. **Jarl/Chief** - Lords or Nobility; a chieftain. 
+1. **Jarl/Chief** - Lords or Nobility; a chieftain. A leader of a minor clan or tribe.
 1. **Named Men** - Noted or famed warriors.
 1. **Carl** - Freemen and land owners; those skilled in warfare.
 1. **Peasant** - Builders, farmers, and craftsmen; those unskilled in warfare.
