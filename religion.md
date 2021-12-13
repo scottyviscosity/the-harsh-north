@@ -29,8 +29,8 @@ In addition to this, their pantheon often reflects four central themes:
 - Hope
 
 Raenir (Norscan pantheon) can be further broken into two parts for the gods:
-- Æsafólk: These are the non-chaos gods, and are heavily worshiped within the southern clans.
-- Vanenes: These are the Chaos Gods, influenced all over Norsca but primarily in the north.
+- Æsafólk: These are the non-chaos gods, and are **heavily worshiped within the southern clans.**
+- Vanenes: These are the Chaos Gods, influenced all over Norsca but **primarily in the north.**
 
 Great heroes are also worshiped, but each clan will have their own hero. A clan will not worship a hero that belongs to another rival clan for example. Heroes are worshiped in lesser detail; there is no special holy days or symbols. Instead they are remembered during other festivals devoted to their reigning god and a small prayer or a sacrifice is often enough to give these ‘Venerated Souls’ their blessing.
 
