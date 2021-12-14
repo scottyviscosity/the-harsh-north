@@ -15,7 +15,7 @@
 - **Starting Stats:** You may assign the following starting values to any of your starting stats: 16, 14, 12, 12, 10, 8.
 - **Hitpoints:** All characters will gain maximum hitpoints at each level.
 - **Starting Money:** See `Page 97` of the Conan core rule book.
-- **Alignment:** Alignment is not a concept in this campaign. _"There are no good or bad men, it all depend on where you stand."_
+- **Alignment:** Alignment is not a concept in this campaign. _"There are no good or bad men, it all depends on where you stand."_
 
 ## Classes
 The following character classes are permitted with minor revisions for flavor:
@@ -70,7 +70,7 @@ See `Page 104` of the Conan core rule book for initial details.
 | A bookish but well-thought-of scholar                                                | 3                |
 | A priest who has worked among the people of the area                                 | 4-5              |
 | A person known to be a thief or thug                                                 | 6-7              |
-| **An average Carl; an old soldier in local lord’s retinue**                          | 8-9              |
+| **An average Carl; an old soldier in local lord's retinue**                          | 8-9              |
 | **A veteran Carl**                                                                   | 10-15            |
 | **A named man; a warrior so renouned as to have a name that kings make note of**     | 16-35            |
 | **An average Jarl; Lords or Nobility**                                               | 26-35            |

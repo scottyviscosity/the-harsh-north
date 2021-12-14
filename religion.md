@@ -32,17 +32,17 @@ Raenir (Norscan pantheon) can be further broken into two parts for the gods:
 - Æsafólk: These are the non-chaos gods, and are **heavily worshiped within the southern clans.**
 - Vanenes: These are the Chaos Gods, influenced all over Norsca but **primarily in the north.**
 
-Great heroes are also worshiped, but each clan will have their own hero. A clan will not worship a hero that belongs to another rival clan for example. Heroes are worshiped in lesser detail; there is no special holy days or symbols. Instead they are remembered during other festivals devoted to their reigning god and a small prayer or a sacrifice is often enough to give these ‘Venerated Souls’ their blessing.
+Great heroes are also worshiped, but each clan will have their own hero. A clan will not worship a hero that belongs to another rival clan for example. Heroes are worshiped in lesser detail; there is no special holy days or symbols. Instead they are remembered during other festivals devoted to their reigning god and a small prayer or a sacrifice is often enough to give these ‘Venerated Souls' their blessing.
 
 ## The Unending Winter
 Norscan belief states that the ending of the world will happen when Olric will rally all Einherjar (ancient name of the Norscans) to join the Raenir in the last Great War against Chaos. Of course, worshipers of the Chaos Gods do not believe in this part. To them this is the day their masters will finally devour the world.
 
-The Unending Winter will be preceeded by the Fimbulwinter, meaning ‘The Winter Without End.’ Three successive winters will follow each other with no summer in sight. It is said that during this time both the Sun and Mannslieb will fall. Morrslieb (they call it Roedredsel) will dominate the sky evermore. The stars will vanish from the sky and the world will fall into darkness. The earth will shudder so violently that trees will be uprooted, mountains will fall, and every bond and fetter will snap and sever. After this the final battle will begin…
+The Unending Winter will be preceeded by the Fimbulwinter, meaning ‘The Winter Without End.' Three successive winters will follow each other with no summer in sight. It is said that during this time both the Sun and Mannslieb will fall. Morrslieb (they call it Roedredsel) will dominate the sky evermore. The stars will vanish from the sky and the world will fall into darkness. The earth will shudder so violently that trees will be uprooted, mountains will fall, and every bond and fetter will snap and sever. After this the final battle will begin…
 
 # Old Gods
 
 ## Olric
-- Title(s): Olric, Olrik, Winter’s Fury, Snow King, Ursash, Ukko, Odin
+- Title(s): Olric, Olrik, Winter's Fury, Snow King, Ursash, Ukko, Odin
 - Sphere of Influence: War, winter, wolves, excellence in arms, leadership, knowledge, wisdom, survival, shapeshifting
 - Common Worshippers: Leaders, warriors, shapeshifters (Wolf)
 - Symbols: Wolf symbols and wolf skins.
