@@ -8,7 +8,7 @@ The 3rd edition Conan D20 system is built directly off of D&D 3.5. The rules are
     - Armor instead provides *damage reduction* which can be mitigated by a high *strength* score and weapons with high *armor piercing* scores.
 1. Finesse fighting is available to any character and offers a chance to bypass armor's damage reduction.
 1. Magic is rare and very powerful, but comes at a price to the wielder, potentially draining their life force or driving them insane.
-1. Magic items and magical healing are rare.
+1. Magic items and magical healing are extremely rare.
 
 ## Rulebook
 For simplicity, only the core rule book is allowed. I've also included a handful of cheat sheets for D&D 3.5 rules. 
@@ -80,7 +80,10 @@ Every character must decide in combat whether to defend by Dodging or Parrying. 
     - If the save fails, the character drops to -10 HP and is dead. A `Fate Point` may still be used to be "left for dead."
 
 ## Healing
+
 **[House Rule] Max natural healing:** When calculating natural healing, always take the maximum value.
+
+**[House Rule] Daily healing die:** Once per day, you may role a single hit die during a long rest to heal that many hitpoints. This represents your character's resilience and drive to continue in the face of minor wounds others would be unable to shrug off.
 
 ## House Rule: Damage Fatigue and Exhaustion
 The goal of this rule is to make low health actually impact how characters can perform. Rather than giving a blanket penalty across the board like other systems (L5R for example), we will instead apply fatigue and exhaustion effects when a player drops at or below a certain percent of their maximum hitpoint value.

@@ -34,6 +34,7 @@ Download and read the [Norsca Campaign Setting](https://drive.google.com/file/d/
 - [Norscan Detail Map](resources/maps/norsca-detail-map-v3.jpg)
 - [Norscan Detail Ownership Map](resources/maps/norsca-detail-map-v3-ownership.jpg)
 - [Norsca Factions](resources/maps/map-norsca-factions.jpg)
+- [Northern Wastes](resources/maps/old-world-northern-wastes.png) ([Polar Gates](https://warhammerfantasy.fandom.com/wiki/Polar_Gates))
 - [The Empire](resources/maps/old-world-empire.jpg)
 - [Other Maps](resources/maps)
 
