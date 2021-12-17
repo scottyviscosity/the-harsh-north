@@ -21,6 +21,6 @@ I added the [avrae discord bot](https://avrae.io/commands#dice) for rolling dice
 ## Syntax
 - Use plain text to describe actions and activity in the scene.
 - Use bold braces (`**[text]**`) for proposed skill checks: **[Some Skill Check]**
-- Use Italics (\`text\`) for inner monolog: `something a character is thinking internally to themselves`
+- Use back ticks (\`text\`) for inner monolog: `something a character is thinking internally to themselves`
 - Use the Quote syntax (`> text`) for dialog: 
     > Something a character says out loud
