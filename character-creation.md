@@ -10,7 +10,9 @@
 - Total War: Thrones of Brittania
 
 ## General
-- **Character sheet:** Use this [customized Conan d20 character sheet](resources/harsh-north-character-sheet.pdf).
+- **Character sheet:** I created a customized Conan d20 character sheet for us to use:
+    - [Printable character sheet](resources/harsh-north-character-sheet.pdf)
+    - [Fillable version](resources/harsh-north-character-sheet-fillable.pdf)
 - **Starting Level:** 2
 - **Starting Stats:** You may assign the following starting values to any of your starting stats: 16, 14, 12, 12, 10, 8.
 - **Hitpoints:** All characters will gain maximum hitpoints at each level.
