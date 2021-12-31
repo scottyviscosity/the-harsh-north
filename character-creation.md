@@ -56,6 +56,9 @@ Players are permitted two flaws to help give their character depth. As usual for
 - [List of Pathfinder Drawbacks (flaws)](https://www.d20pfsrd.com/traits/drawbacks/)
 - I don't like how limited the lists are, so feel free to create and submit your own flaws for approval.
 
+## Contacts
+**'I know a guy'.** Each character can create a contact from their past that might be able to help the party. One 'guy' per charisma mod per campaign (minimum of 1). Player must tell the dm the name of the contact, basic info on how they can help, how the player knows them, and where they can be found.
+
 ## Fate Points
 Each player will begin the game with **3 fate points**. I do not plan on handing these out for any rewards during the game, so use them wisely.
 
@@ -68,16 +71,16 @@ See `Page 104` of the Conan core rule book for initial details.
 | Example                                                                              | Reputation Score |
 | ------------------------------------------------------------------------------------ | ---------------- |
 | **An obedient Thrall**                                                               | 1                |
-| A newly recruited guardsman                                                          | 2                |
-| A bookish but well-thought-of scholar                                                | 3                |
-| A priest who has worked among the people of the area                                 | 4-5              |
-| A person known to be a thief or thug                                                 | 6-7              |
-| **An average Carl; an old soldier in local lord's retinue**                          | 8-9              |
+| A newly recruited guardsman                                                          | 2                |
+| A bookish but well-thought-of scholar                                                | 3                |
+| A priest who has worked among the people of the area                                 | 4-5              |
+| A person known to be a thief or thug                                                 | 6-7              |
+| **An average Carl; an old soldier in local lord's retinue**                          | 8-9              |
 | **A veteran Carl**                                                                   | 10-15            |
 | **A named man; a warrior so renouned as to have a name that kings make note of**     | 16-35            |
-| **An average Jarl; Lords or Nobility**                                               | 26-35            |
+| **An average Jarl; Lords or Nobility**                                               | 26-35            |
 | **An average Seer or scholar; Spiritual leaders, shamen, magi, magisters**           | 30-40            |
-| A gifted assassin                                                                    | 36-55            |
+| A gifted assassin                                                                    | 36-55            |
 | **An average King; a leader of a kingdom or clan**                                  | 56-75            |
 | **The High King; a king of kings**                                                   | 76-90            |
-| An evil wizard who has returned from the dead to topple kingdoms and slay the living | 90+              |
+| An evil wizard who has returned from the dead to topple kingdoms and slay the living | 90+              |
