@@ -79,6 +79,8 @@ From time to time, meteors of Warpstone coming from Morrslieb fall upon the plan
 
 There are two nights in the year in which both moons are full at the same time. The first is called Hexensnacht ("Witching Night") and the other one Geheimnisnacht ("Night of Mystery"). To most, these are greatly feared and ill-omened nights of the year, and even the most cynical sceptic will avoid the eerie light cast by the full moons. On the other hand, gatherings and ritual sacrifices are held by the worshippers of Chaos on these nights.
 
+Read more about [Geheimnisnacht](https://warhammerfantasy.fandom.com/wiki/Geheimnistag).
+
 ## Magic of the North
 Norscan magic is called Murkr. It is a wild untamed magic seeped in ritual. Unlike the magic of the southern provinces, Murkr magic requires specific ingredients and ritual to perform. Even the most basic of Murkr magic requires some form of substance to function. It is steeped in ritualism and often requires blood sacrifice. Yet when it does function, it is potent and powerful. Due to the close vicinity of the northern wastes, Norsca is seeped in powerful winds of magic, and those who know how to channel that magic can unleash deadly untold destruction. A good comparison between the different schools of magic can be made using this example: If a human wizard of the Empire wished to cast a spell, he need only perform the words needed to be said in its arcane tongue, and thus cast the spell.
 
