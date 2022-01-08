@@ -31,6 +31,17 @@ The Old Ways:
 - to not hurt innocent women and children
 - to settle disputes with a Duel in the Circle (see below)
 
+## The Test (Earning your Shield)
+When a Norscan comes of age (typically between 14-18) or is deemed talented enough, they are allowed to participate in a test of combat prowess. Though this can be at any time or location, it is generally held at feasts and often in large groups annually so combatants may be paired against one another. The schedule frequently coincides with the training schedule held by a Sword Master who is given the authority of judge over the contests. 
+
+The test usually takes place inside the Training Square with wooden swords and shields. Exotic or impromptu locations are sometimes used, a sandy beach for instance, but at the minimum, a circle is always drawn. The fight is over when one combatant yields or the Sword Master calls the bout. 
+
+Usually, pairs are made at random, but some Sword Masters choose to use their position to dictate favorable (or unfavorable) matches for individual students. It pays to be on your Sword Master's good side, but show too much promise and he just might put too much confidence in you and expect a masterful showing against unlikely odds to improve his reputation as a teacher. It is not uncommon for youths to be injured during such contests, even using blunted weapons.
+
+A youth (or adult in rare cases) would like only take the test if they planned to be a warrior. This may be due to their parentage (a parent being at least a Carl) or if the individual is attempting to rise above his current class in the caste system (e.g. a merchant wishing to become a Carl).
+
+Passing the tests earns you your shield both literally in the form of a shield bearing the emblem of your lord or chief, and figuratively via status and privilege. Without your shield, you are not allowed to stand in a shield wall, participate in raids, and typically never rise above the peasant class.
+
 ## Line of Kings
 The Line of Kings was established by Hunlaf Wolfclaw Thorsson after receiving a blessing to do so by [Olric](religion.md#olric) and the leaders of the Wolfclaw clan have inherited the title of High King ever since. The Wolfclaw clan is a strange oddity. They have no lands, they are a relatively small clan whose only claim to fame is that they established a royal line of High Kings. Yet it is this very claim that keeps their clan in power. 
 
