@@ -2,6 +2,7 @@
 
 - [Common Culture](#common-culture)
   - [The Old Ways](#the-old-ways)
+  - [The Test (Earning your Shield)](#the-test-earning-your-shield)
   - [Line of Kings](#line-of-kings)
   - [Social Hierarchy](#social-hierarchy)
     - [Named Men](#named-men)
