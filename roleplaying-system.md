@@ -79,6 +79,9 @@ Every character must decide in combat whether to defend by Dodging or Parrying. 
     - `Massive Damage Fortitude Saving Throw DC = 10 + (1/2 damage dealt)`
     - If the save fails, the character drops to -10 HP and is dead. A `Fate Point` may still be used to be "left for dead."
 
+## Attacks of Opportunity
+**Defending:** It is not clearly defined in the rulebook whether or not you can choose to parry or dodge an attack of opportunity. Normally, I would give you the choice but in this case I feel it makes no sense for someone to be able to parry when their guard is dropped. **By default you need to use dodge against an AoO, unless you make a compelling case for parry.**
+
 ## Healing
 
 **[House Rule] Max natural healing:** When calculating natural healing, always take the maximum value.
